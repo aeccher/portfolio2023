@@ -8,7 +8,6 @@
     <div class="lg:w-1/2 md:w-2/3 mx-auto">
       
       <form class="flex flex-wrap -m-2" action="https://formsubmit.co/agatheec@free.fr" method="POST">
-      taille TYPOGRAPHIE écriture repmli champs!! CAPTACHA & page remerciements template mail recu ...
         <div class="p-2 w-1/2">
           <div class="relative">
             <label for="name" class="leading-7 text-xs text-gray-600 font-roboto">Prénom & Nom</label>

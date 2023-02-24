@@ -1,10 +1,10 @@
 <template>
   <!-- Header -->
   <header class="flex bg-green-500">
-    <nav>
+    <nav class="flex items-center">
       <router-link to="/" class="flex items-center">
-        <icon-logo class="ml-2" />
-        <span class="text-lg font-thin text-white font-roboto">Agathe ECCHER</span>
+        <icon-logo class="ml-4" />
+        <span class="text-lg font-thin text-white font-roboto">Ag@the ECCHER</span>
         <span class="sr-only">Logo retour Accueil</span>
       </router-link>
     </nav> 
@@ -33,24 +33,24 @@
         id="menu"
         class="fixed inset-0 z-40 translate-x-full bg-green-500 motion-safe:transition-transform motion-safe:duration-1000"
         :class="{ 'translate-x-0': menuOuvert }">
-        <ul class="p-10 text-base text-white">
+        <ul class="p-10 text-3xl font-bold font-roboto text-white grid gap-8 place-content-center mt-24">
           <li>
-            <Router-link to="/about" @click="menuOuvert = false" class="font-roboto">À propros de moi</Router-link>
+            <Router-link to="/about" @click="menuOuvert = false" class="">À propros de moi</Router-link>
           </li>
           <li>
-            <Router-link to="/about" @click="menuOuvert = false" class="font-roboto">Travail</Router-link>
+            <Router-link to="/" @click="menuOuvert = false" class="">Travail</Router-link>
           </li>
           <li>
-            <Router-link to="/contact" @click="menuOuvert = false" class="font-roboto">Contact</Router-link>
+            <Router-link to="/contact" @click="menuOuvert = false" class="">Contact</Router-link>
           </li>
         </ul>
       </div>
     </nav>
 
-    <div class="hidden flex-auto justify-end items-stretch text-lg text-white gap-24 pb-4 pt-6 pr-16 md:flex">
+    <div class="hidden flex-auto justify-end items-center text-lg text-white gap-24 pb-4 pt-6 pr-16 md:flex">
       <Router-link to="/about" class="font-roboto hover:underline">À propros de moi</Router-link>
-      <Router-link to="/about" class="font-roboto hover:underline">Travail</Router-link>
-      <Router-link to="/contact" class="px-12 py-3 mt-8 font-medium border border-white rounded-full hover:bg-white hover:text-green-500 font-roboto">Contact</Router-link>
+      <Router-link to="/" class="font-roboto hover:underline">Travail</Router-link>
+      <Router-link to="/contact" class="px-12 py-3 font-medium border border-white rounded-full hover:bg-white hover:text-green-500 font-roboto">Contact</Router-link>
     </div>
   </header>
 

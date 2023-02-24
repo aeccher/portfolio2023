@@ -4,9 +4,9 @@
     <p class="font-roboto text-xl p-4">Cette page décrit les mentions légales qui s'appliquent à tout internaute visitant ce site. En le consultant vous vous engagez sans réserve à les respecter. Les mentions légales pouvant être modifiées à tout moment et sans préavis, nous vous engageons à les consulter régulièrement.</p>
     <h3 class="font-roboto text-xl font-bold mt-8 text-gray-600 p-2"> Responsable éditorial et responsable légal</h3>
 
-    <ul class="list-disc font-roboto text-xl">
-        <li>• Propriétaire : Agathe ECCHER</li>
-        <li>• Hébergeur : Infomaniak</li>
+    <ul class="list-disc font-roboto text-xl ml-10">
+        <li>Propriétaire : Agathe ECCHER</li>
+        <li>Hébergeur : Infomaniak</li>
     </ul>
 
     <h3 class="font-roboto text-xl font-bold mt-8 text-gray-600 p-2">Conditions d’utilisation</h3>
@@ -19,9 +19,9 @@
     Le présent Contrat s'applique dans le monde entier, et seule sa version en langue française fait foi en vue de son interprétation.</p>
 
     <ul class="list-disc font-roboto text-xl p-2">
-        <li>• Graphisme, photos et illustrations : Le graphisme (incluant le webdesign et le logo) a été réalisé par Agathe ECCHER. Les photographies appartiennent à Imagia, etc.</li>
-        <li>• Déclaration à la CNIL : Conformément à la loi 78-17 du 6 janvier 1978 (modifiée par la loi 2004-801 du 6 août 2004 relative à la protection des personnes physiques à l’égard des traitements de données à caractère personnel) relative à l’informatique, aux fichiers et aux libertés, ce site n’a pas fait l’objet d’une déclaration auprès de la Commission nationale de l’informatique et des libertés (www.cnil.fr).</li>
-        <li>• Litiges : Les présentes conditions du site https://www.agathe-eccher.fr sont régies par les lois françaises et toute contestation ou litiges qui pourraient naître de l’interprétation ou de l’exécution de celles-ci seront de la compétence exclusive des tribunaux dont dépend le siège social de la société. La langue de référence, pour le règlement de contentieux éventuels, est le français</li>
+        <li class="m-10">Graphisme, photos et illustrations : Le graphisme (incluant le webdesign et le logo) a été réalisé par Agathe ECCHER. Les photographies appartiennent à Imagia, etc.</li>
+        <li class="m-10">Déclaration à la CNIL : Conformément à la loi 78-17 du 6 janvier 1978 (modifiée par la loi 2004-801 du 6 août 2004 relative à la protection des personnes physiques à l’égard des traitements de données à caractère personnel) relative à l’informatique, aux fichiers et aux libertés, ce site n’a pas fait l’objet d’une déclaration auprès de la Commission nationale de l’informatique et des libertés (www.cnil.fr).</li>
+        <li class="m-10">Litiges : Les présentes conditions du site https://www.agathe-eccher.fr sont régies par les lois françaises et toute contestation ou litiges qui pourraient naître de l’interprétation ou de l’exécution de celles-ci seront de la compétence exclusive des tribunaux dont dépend le siège social de la société. La langue de référence, pour le règlement de contentieux éventuels, est le français</li>
     </ul>
 
 </template>
