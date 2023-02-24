@@ -2,7 +2,7 @@
     <h2 class="font-script text-3xl text-center font-bold mt-8 text-gray-600 underline underline-offset-[15px] decoration-double p-2">À propos de moi</h2>
     <p class="text-lg p-12 font-roboto">J'ai 21 ans, actuellement en 2ème année d'un BUT MMI (Bachelor Universitaire de Technologie Métiers du Multimédia et de l'Internet). Je suis intéressée notamment par le développement Front-End, le webdesign ou encore la 3D.</p>
        <div class="flex-col columns-1 pl-12 md:columns-2">  
-            <img class="rounded-xl h-72 hover:h-80 ease-in duration-500 m-12" src="../assets/images/portrait.jpg" alt="Portrait de Agathe ECCHER" />
+            <img class="rounded-xl h-80 m-auto my-32" src="../assets/images/portrait.jpg" alt="Portrait de Agathe ECCHER" />
             <h3 class="font-script text-center text-3xl font-bold mt-8 text-gray-600 underline underline-offset-8 decoration-double p-2">Études</h3>
             <ol class="relative border-l border-gray-200 dark:border-gray-700 m-8">                  
                 <li class="mb-10 ml-4">
