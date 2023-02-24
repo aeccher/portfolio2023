@@ -6,7 +6,7 @@
     <img src="../assets/images/Illustration_de_la_citadelle_de_Besancon.svg" alt="Planche d'ambiance et image vectorielle de la citadelle" class="">
     <h3 class="font-roboto text-xl text-center font-bold mt-8 text-gray-600 outline-dotted p-2">ANIMATION HTML & CSS</h3>
     <video controls >
-    <source src="../assets/videos/animation_citadelle.mov">
+    <source src="../assets/videos/animation_citadelle.mp4">
 </video>
 
 </template>

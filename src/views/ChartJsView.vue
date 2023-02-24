@@ -13,7 +13,7 @@
     <img src="../assets/images/chartjs_code.png" alt="Image du code du graphique" class="scale-75 hover:scale-90 block m-auto">
     <h3 class="font-roboto text-xl text-center font-bold mt-8 text-gray-600 outline-dotted p-2">RÉSULTAT</h3>
     <video controls >
-    <source src="../assets/videos/chartjs.mov">
+    <source src="../assets/videos/chartjs.mp4">
 </video>
 
 </template>
