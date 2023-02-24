@@ -13,6 +13,8 @@ import HypercubeView from '../views/HypercubeView.vue'
 
 import NotFoundView from '../views/NotFoundView.vue'
 
+import MerciView from '../views/MerciView.vue'
+
 
 const router = createRouter({
   history: createWebHistory(import.meta.env.BASE_URL),
@@ -30,6 +32,8 @@ const router = createRouter({
     { path: '/hypercube', name: 'Hypercube', component: HypercubeView },
 
     { path: '/404', alias: '/:catchAll(.*)', name: 'NotFound', component: NotFoundView },
+
+    { path: '/merci', name: 'Merci', component: MerciView },
 
   ]
 })

@@ -31,7 +31,7 @@
 
       <div
         id="menu"
-        class="fixed inset-0 z-40 translate-x-full bg-green-500 motion-safe:transition-transform motion-safe:duration-1000"
+        class="fixed inset-0 z-40 translate-x-full bg-green-500 motion-safe:transition-transform motion-safe:duration-1000 overflow-hidden"
         :class="{ 'translate-x-0': menuOuvert }">
         <ul class="p-10 text-3xl font-bold font-roboto text-white grid gap-8 place-content-center mt-24">
           <li>
