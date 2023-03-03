@@ -123,7 +123,7 @@
                               <Router-link to="/ecobiking" class="hover:underline decoration-wavy">
                                   <h5 class="mb-2 text-2xl font-bold font-script tracking-tight text-gray-900 dark:text-white"> ECOBIKING - SAÉ 202 </h5>
                               </Router-link>
-                              <p class="mb-3 font-normal text-gray-600 dark:text-gray-400 font-roboto">Travail de 1ère année (2ème semestre) réalisé pour un examen consistant à concevoir un site bilingue (anglais/français) et promouvoir sa promotion par groupe de 3 sur la thématique du velotaf. </p>
+                              <p class="mb-3 font-normal text-gray-600 dark:text-gray-400 font-roboto">Travail de 1ère année (2ème semestre) réalisé pour un examen consistant à concevoir un site bilingue (anglais/français) et sa promotion par groupe de 3 sur la thématique du velotaf. </p>
                               <Router-link to="/ecobiking" class="mt-8 inline-flex items-center px-3 py-2 text-sm font-roboto font-medium text-center text-white bg-green-500 rounded-lg hover:bg-green-600 dark:bg-blue-600 dark:hover:bg-blue-700 dark:focus:ring-blue-800">
                                   En savoir plus
                                   <icon-arrow/>

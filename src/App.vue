@@ -4,7 +4,7 @@
     <nav class="flex items-center">
       <router-link to="/" class="flex items-center">
         <icon-logo class="ml-4" />
-        <span class="text-lg font-thin text-white font-roboto">Ag@the ECCHER</span>
+        <h1 class="text-lg font-thin text-white font-roboto">Ag@the ECCHER</h1>
         <span class="sr-only">Logo retour Accueil</span>
       </router-link>
     </nav> 
