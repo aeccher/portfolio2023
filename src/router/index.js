@@ -1,6 +1,7 @@
 import { createRouter, createWebHistory } from 'vue-router'
 import AccueilView from '../views/AccueilView.vue'
 import AboutView from '../views/AboutView.vue'
+import WorkView from '../views/WorkView.vue'
 import ContactView from '../views/ContactView.vue'
 import MentionsLegalesView from '../views/MentionsLegalesView.vue'
 
@@ -10,6 +11,8 @@ import ThreeJsView from '../views/ThreeJsView.vue'
 import ExpoUnivView from '../views/ExpoUnivView.vue'
 import CassandreView from '../views/CassandreView.vue'
 import HypercubeView from '../views/HypercubeView.vue'
+import BlenderView from '../views/BlenderView.vue'
+import SAE202View from '../views/SAE202View.vue'
 
 import NotFoundView from '../views/NotFoundView.vue'
 
@@ -21,6 +24,7 @@ const router = createRouter({
   routes: [
     { path: '/', name: 'Accueil', component: AccueilView },
     { path: '/about', name: 'About', component: AboutView },
+    { path: '/travail', name: 'Travail', component: WorkView },
     { path: '/contact', name: 'Contact', component: ContactView },
     { path: '/mentions-legales', name: 'MentionsLegales', component: MentionsLegalesView },
 
@@ -30,6 +34,8 @@ const router = createRouter({
     { path: '/exposition-universelle', name: 'ExpoUniv', component: ExpoUnivView },
     { path: '/cassandre', name: 'Cassandre', component: CassandreView },
     { path: '/hypercube', name: 'Hypercube', component: HypercubeView },
+    { path: '/blender', name: 'Blender', component: BlenderView },
+    { path: '/ecobiking', name: 'Ecobiking', component: SAE202View },
 
     { path: '/404', alias: '/:catchAll(.*)', name: 'NotFound', component: NotFoundView },
 

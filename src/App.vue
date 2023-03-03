@@ -21,7 +21,7 @@
         <div v-if="!menuOuvert">
           <icon-menu/>
         </div>
-        <div v-else>
+        <div class="fixed top-2 right-0" v-else>
           <icon-cross/>
         </div>
       </div>
@@ -31,17 +31,17 @@
 
       <div
         id="menu"
-        class="fixed inset-0 z-40 translate-x-full bg-green-500 motion-safe:transition-transform motion-safe:duration-1000 overflow-hidden"
+        class="fixed overflow-y-hidden inset-0 z-40 translate-x-full bg-green-500 motion-safe:transition-transform motion-safe:duration-1000"
         :class="{ 'translate-x-0': menuOuvert }">
         <ul class="p-10 text-3xl font-bold font-roboto text-white grid gap-8 place-content-center mt-24">
           <li>
-            <Router-link to="/about" @click="menuOuvert = false" class="">À propros de moi</Router-link>
+            <Router-link to="/about" @click="menuOuvert = false" >À propros de moi</Router-link>
           </li>
           <li>
-            <Router-link to="/" @click="menuOuvert = false" class="">Travail</Router-link>
+            <Router-link to="/travail" @click="menuOuvert = false" >Travail</Router-link>
           </li>
           <li>
-            <Router-link to="/contact" @click="menuOuvert = false" class="">Contact</Router-link>
+            <Router-link to="/contact" @click="menuOuvert = false" >Contact</Router-link>
           </li>
         </ul>
       </div>
@@ -49,7 +49,7 @@
 
     <div class="hidden flex-auto justify-end items-center text-lg text-white gap-24 pb-4 pt-6 pr-16 md:flex">
       <Router-link to="/about" class="font-roboto hover:underline">À propros de moi</Router-link>
-      <Router-link to="/" class="font-roboto hover:underline">Travail</Router-link>
+      <Router-link to="/travail" class="font-roboto hover:underline">Travail</Router-link>
       <Router-link to="/contact" class="px-12 py-3 font-medium border border-white rounded-full hover:bg-white hover:text-green-500 font-roboto">Contact</Router-link>
     </div>
   </header>
@@ -109,3 +109,4 @@ export default {
 };
 
 </script>
+
