@@ -4,7 +4,7 @@
     <nav class="flex items-center">
       <router-link to="/" class="flex items-center">
         <icon-logo class="ml-4" />
-        <h1 class="text-lg font-thin text-white font-roboto">Ag@the ECCHER</h1>
+        <h1 class="text-lg font-thin text-white font-Roboto">Ag@the ECCHER</h1>
         <span class="sr-only">Logo retour Accueil</span>
       </router-link>
     </nav> 
@@ -33,7 +33,7 @@
         id="menu"
         class="fixed overflow-y-hidden inset-0 z-40 translate-x-full bg-green-500 motion-safe:transition-transform motion-safe:duration-1000"
         :class="{ 'translate-x-0': menuOuvert }">
-        <ul class="p-10 text-3xl font-bold font-roboto text-white grid gap-8 place-content-center mt-24">
+        <ul class="p-10 text-3xl font-bold font-Roboto text-white grid gap-8 place-content-center mt-24">
           <li>
             <Router-link to="/about" @click="menuOuvert = false" >À propros de moi</Router-link>
           </li>
@@ -48,9 +48,9 @@
     </nav>
 
     <div class="hidden flex-auto justify-end items-center text-lg text-white gap-24 pb-4 pt-6 pr-16 md:flex">
-      <Router-link to="/about" class="font-roboto hover:underline">À propros de moi</Router-link>
-      <Router-link to="/travail" class="font-roboto hover:underline">Travail</Router-link>
-      <Router-link to="/contact" class="px-12 py-3 font-medium border border-white rounded-full hover:bg-white hover:text-green-500 font-roboto">Contact</Router-link>
+      <Router-link to="/about" class="font-Roboto hover:underline">À propros de moi</Router-link>
+      <Router-link to="/travail" class="font-Roboto hover:underline">Travail</Router-link>
+      <Router-link to="/contact" class="px-12 py-3 font-medium border border-white rounded-full hover:bg-white hover:text-green-500 font-Roboto">Contact</Router-link>
     </div>
   </header>
 
@@ -65,18 +65,18 @@
         <nav aria-label="Footer Navigation">
           <ul class="flex flex-wrap justify-center gap-4 text-base text-gray-500 lg:justify-end">
             <li>
-              <Router-link to="/about" class="hover:underline mr-6 font-roboto">Qui suis-je ?</Router-link>
+              <Router-link to="/about" class="hover:underline mr-6 font-Roboto">Qui suis-je ?</Router-link>
             </li>
             <li>
-              <Router-link to="/contact" class="hover:underline mr-6 font-roboto">Contact</Router-link>
+              <Router-link to="/contact" class="hover:underline mr-6 font-Roboto">Contact</Router-link>
             </li>
             <li>
-              <Router-link to="/mentions-legales" class="hover:underline mr-6 font-roboto">Mentions légales</Router-link>
+              <Router-link to="/mentions-legales" class="hover:underline mr-6 font-Roboto">Mentions légales</Router-link>
             </li>
           </ul>
         </nav>
         
-        <p class="text-base text-center text-gray-400 mt-4 font-roboto">
+        <p class="text-base text-center text-gray-400 mt-4 font-Roboto">
           Portfolio 2023 - Agathe ECCHER 
         </p>
         

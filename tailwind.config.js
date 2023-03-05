@@ -9,8 +9,8 @@ module.exports = {
         // Ici vos couleurs exportées de Figma
       },
       "fontFamily": {
-        'script': ['cursive'],
-        'roboto': ['sans- serif']
+        'Lato': ['Lato, sans-serif'],
+        'Roboto': ['Roboto, sans-serif']
       },
     },
 
