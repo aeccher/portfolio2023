@@ -2,12 +2,12 @@
     <section class="text-gray-600 body-font relative mt-12 mb-40">
   <div class="container px-5 py-20 mx-auto">
     <div class="flex flex-col text-center w-full mb-12">
-      <h1 class="sm:text-3xl text-2xl font-medium title-font mb-4 text-gray-900 font-Lato">Contactez-moi</h1>
+      <h2 class="sm:text-3xl text-2xl font-medium title-font mb-4 text-gray-900 font-Lato">Contactez-moi</h2>
       <p class="lg:w-2/3 mx-auto text-base font-Roboto">Écrivez votre message ci-dessous, j'y répondrai dans les plus brefs délais.</p>
     </div>
     <div class="lg:w-1/2 md:w-2/3 mx-auto">
       
-      <form class="flex flex-wrap -m-2" action="https://formsubmit.co/agatheec@free.fr" method="POST">
+      <form id="form" class="flex flex-wrap -m-2" action="https://formsubmit.co/agatheec@free.fr" method="POST">
         <div class="p-2 w-1/2">
           <div class="relative">
             <label for="name" class="leading-7 text-xs text-gray-600 font-Roboto">Prénom & Nom</label>
@@ -31,13 +31,23 @@
           </div>
         </div>
         <div class="p-2 w-full">
-          <button class="font-Roboto flex mx-auto text-white bg-green-500 border-0 py-2 px-8 focus:outline-none hover:bg-green-600 rounded text-lg"  type="submit">Envoyer</button>
+          <button class="g-recaptcha font-Roboto flex mx-auto text-white bg-green-500 border-0 py-2 px-8 focus:outline-none hover:bg-green-600 rounded text-lg"
+          type="submit" 
+          data-sitekey="6Ld6QtUkAAAAACMNGpFFBoyz4WAWmG5-sHAB2SpV"
+          data-callback='onSubmit'
+          data-action='submit'>Envoyer</button>
         </div>
       </form>
     </div>
   </div>
 </section>
 </template>
+
+<script>
+   function onSubmit(token) {
+     document.getElementById("form").submit();
+   }
+</script>
 
 
 
