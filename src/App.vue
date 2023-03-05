@@ -58,9 +58,9 @@
   <!-- Fin Header --> 
 
   <!-- Footer -->
-  <footer class="pt-36">
+  <footer class="mt-8">
     <div class="px-4 mx-auto sm:px-6 lg:px-8 ">
-      <div class="pt-4 border-t border-gray-300 sm:flex sm:items-center sm:justify-between">
+      <div class="pt-4 pb-4 border-t border-gray-300 sm:flex sm:items-center sm:justify-between">
 
         <nav aria-label="Footer Navigation">
           <ul class="flex flex-wrap justify-center gap-4 text-base text-gray-500 lg:justify-end">

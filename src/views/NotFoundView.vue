@@ -1,5 +1,5 @@
 <template>
-  <main class="flex h-[65vh] w-full flex-col items-center justify-center bg-white">
+  <main class="flex h-screen w-full flex-col items-center justify-center bg-white">
     <h1 class="text-9xl font-extrabold tracking-widest text-green-500 font-Roboto">404</h1>
     <div class="absolute rotate-12 rounded bg-white px-2 text-sm font-Lato">Page non trouvée</div>
     <button class="mt-5">
