@@ -1,5 +1,5 @@
 <template>
-    <h2 class="font-Lato text-3xl text-center font-bold mt-8 text-gray-600 underline underline-offset-8 decoration-double p-2"> Affiche et carte postale pour l'Exposition Universelle d'Osaka 2025</h2>
+    <h2 class="font-Lato text-3xl text-center font-bold mt-8 text-gray-600 underline lg:underline-offset-8 decoration-double p-2"> Affiche et carte postale pour l'Exposition Universelle d'Osaka 2025</h2>
     <h3 class="font-Roboto text-xl text-center font-bold mt-8 text-gray-600 outline-dotted p-2">ÉNONCÉ</h3>
     <p class="mt-4 ml-4 font-Roboto text-xl">Créer une campagne, développer un concept</p>
     <p class="mt-4 ml-4 font-Roboto text-xl">Sujet : Exposition Universelle 2025</p>

@@ -11,7 +11,7 @@
               <Router-link to="/illustration-citadelle" class="hover:underline decoration-wavy">
                   <h5 class="mt-2 mb-2 text-2xl font-bold font-Lato tracking-tight text-gray-900 dark:text-white">Illustration de la Citadelle de Besançon</h5>
               </Router-link>
-              <p class="mb-3 font-normal text-gray-600 dark:text-gray-400 font-Roboto">Travail de 1ère année (2ème semestre) du cours Production Graphique consistant à réaliser une image vectorielle (en .svg) sur Adobe Illustrator et l'aminer en utilisant du CSS."</p>
+              <p class="mb-3 font-normal text-gray-600 dark:text-gray-400 font-Roboto">Travail de 1ère année (2ème semestre) du cours Production Graphique consistant à réaliser une image vectorielle (en .svg) sur Adobe Illustrator et l'aminer en utilisant du CSS.</p>
               <Router-link to="/illustration-citadelle" class="mt-16 inline-flex items-center px-3 py-2 text-sm font-Roboto font-medium text-center text-white bg-green-500 rounded-lg hover:bg-green-600 dark:bg-blue-600 dark:hover:bg-blue-700 dark:focus:ring-blue-800">
                   En savoir plus
                   <icon-arrow/>
@@ -27,7 +27,7 @@
               <Router-link to="/chartjs" class="hover:underline decoration-wavy">
                   <h5 class="mb-2 text-2xl font-bold font-Lato tracking-tight text-gray-900 dark:text-white">Datavisualisation / Accidentologie en vélo - ChartJs</h5>
               </Router-link>
-              <p class="mb-3 font-normal text-gray-600 dark:text-gray-400 font-Roboto">Travail de 2ème année (3ème semestre) du cours Création et Design Interactif (UI) consistant à réaliser une page web avec des graphiques en utilisant ChartJs pour répondre aux problématiques de l'accidentologie en vélo."</p>
+              <p class="mb-3 font-normal text-gray-600 dark:text-gray-400 font-Roboto">Travail de 2ème année (3ème semestre) du cours Création et Design Interactif (UI) consistant à réaliser une page web avec des graphiques en utilisant ChartJs pour répondre aux problématiques de l'accidentologie en vélo.</p>
               <Router-link to="/chartjs" class="mt-2 inline-flex items-center px-3 py-2 text-sm font-Roboto font-medium text-center text-white bg-green-500 rounded-lg hover:bg-green-600 dark:bg-blue-600 dark:hover:bg-blue-700 dark:focus:ring-blue-800">
                   En savoir plus
                   <icon-arrow/>
@@ -43,7 +43,7 @@
                   <Router-link to="/threejs" class="hover:underline decoration-wavy">
                       <h5 class="mt-8 mb-2 text-2xl font-bold font-Lato tracking-tight text-gray-900 dark:text-white">Balancier avec ThreeJs</h5>
                   </Router-link>
-                  <p class="mb-8 font-normal text-gray-600 dark:text-gray-400 font-Roboto">Travail de 2ème année (4ème semestre) du cours Développement Front consistant à réaliser un blancier avec ThreeJs.</p>
+                  <p class="mb-8 font-normal text-gray-600 dark:text-gray-400 font-Roboto">Travail de 2ème année (4ème semestre) du cours Développement Front consistant à réaliser un balancier en WebGL avec ThreeJs.</p>
                   <Router-link to="/threejs" class="mt-16 inline-flex items-center px-3 py-2 text-sm font-Roboto font-medium text-center text-white bg-green-500 rounded-lg hover:bg-green-600 dark:bg-blue-600 dark:hover:bg-blue-700 dark:focus:ring-blue-800">
                       En savoir plus
                       <icon-arrow/>
@@ -59,7 +59,7 @@
                   <Router-link to="/exposition-universelle" class="hover:underline decoration-wavy">
                       <h5 class="mb-2 text-2xl font-bold font-Lato tracking-tight text-gray-900 dark:text-white">Affiche et carte postale pour l'Exposition Universelle d'Osaka 2025</h5>
                   </Router-link>
-                  <p class="mb-3 font-normal text-gray-600 dark:text-gray-400 font-Roboto">Travail de 2ème année (3ème semestre) du cours Culture Artistique consistant à réaliser une affiche et une carte postale pour l'Exposition Universelle d'Osaka 2025."</p>
+                  <p class="mb-3 font-normal text-gray-600 dark:text-gray-400 font-Roboto">Travail de 2ème année (3ème semestre) du cours Culture Artistique consistant à réaliser une affiche et une carte postale pour l'Exposition Universelle d'Osaka 2025.</p>
                   <Router-link to="/exposition-universelle" class="inline-flex items-center px-3 py-2 text-sm font-Roboto font-medium text-center text-white bg-green-500 rounded-lg hover:bg-green-600 dark:bg-blue-600 dark:hover:bg-blue-700 dark:focus:ring-blue-800">
                       En savoir plus
                       <icon-arrow/>
@@ -75,7 +75,7 @@
                   <Router-link to="/cassandre" class="hover:underline decoration-wavy">
                       <h5 class="mb-2 text-2xl font-bold font-Lato tracking-tight text-gray-900 dark:text-white">Carte postale à la manière de l'artiste Cassandre</h5>
                   </Router-link>
-                  <p class="mb-3 font-normal text-gray-600 dark:text-gray-400 font-Roboto">Travail de 2ème année (3ème semestre) du cours Culture Artistique consistant à réaliser une carte postale à la manière de l'artiste Cassandre."</p>
+                  <p class="mb-3 font-normal text-gray-600 dark:text-gray-400 font-Roboto">Travail de 2ème année (3ème semestre) du cours Culture Artistique consistant à réaliser une carte postale à la manière de l'artiste Cassandre.</p>
                   <Router-link to="/cassandre" class="mt-2 inline-flex items-center px-3 py-2 text-sm font-Roboto font-medium text-center text-white bg-green-500 rounded-lg hover:bg-green-600 dark:bg-blue-600 dark:hover:bg-blue-700 dark:focus:ring-blue-800">
                       En savoir plus
                       <icon-arrow/>
@@ -91,7 +91,7 @@
                   <Router-link to="/hypercube" class="hover:underline decoration-wavy">
                       <h5 class="mb-2 text-2xl font-bold font-Lato tracking-tight text-gray-900 dark:text-white">Scientific Game Jam - Hypercube</h5>
                   </Router-link>
-                  <p class="mb-3 font-normal text-gray-600 dark:text-gray-400 font-Roboto">Participation à la Scientific Game Jam de l'unversité du 25 au 27 nov. 2022 </p>
+                  <p class="mb-3 font-normal text-gray-600 dark:text-gray-400 font-Roboto">Participation à la Scientific Game Jam de l'unversité du 25 au 27 nov. 2022.</p>
                   <Router-link to="/hypercube" class="mt-10 inline-flex items-center px-3 py-2 text-sm font-Roboto font-medium text-center text-white bg-green-500 rounded-lg hover:bg-green-600 dark:bg-blue-600 dark:hover:bg-blue-700 dark:focus:ring-blue-800">
                       En savoir plus
                       <icon-arrow/>
@@ -121,7 +121,7 @@
                           </Router-link>
                           <div class="p-5">
                               <Router-link to="/ecobiking" class="hover:underline decoration-wavy">
-                                  <h5 class="mb-2 text-2xl font-bold font-Lato tracking-tight text-gray-900 dark:text-white"> ECOBIKING - SAÉ 202 </h5>
+                                  <h5 class="mb-2 text-2xl font-bold font-Lato tracking-tight text-gray-900 dark:text-white"> ECOBIKING - SAÉ 202 (Situation d'Apprentissage et d'Évaluation) </h5>
                               </Router-link>
                               <p class="mb-3 font-normal text-gray-600 dark:text-gray-400 font-Roboto">Travail de 1ère année (2ème semestre) réalisé pour un examen consistant à concevoir un site bilingue (anglais/français) et sa promotion par groupe de 3 sur la thématique du velotaf. </p>
                               <Router-link to="/ecobiking" class="mt-8 inline-flex items-center px-3 py-2 text-sm font-Roboto font-medium text-center text-white bg-green-500 rounded-lg hover:bg-green-600 dark:bg-blue-600 dark:hover:bg-blue-700 dark:focus:ring-blue-800">
@@ -129,7 +129,7 @@
                                   <icon-arrow/>
                               </Router-link>
                           </div>
-       </div>
+        </div>
  
  
   </div>

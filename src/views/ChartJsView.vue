@@ -2,7 +2,6 @@
     <h2 class="font-Lato text-3xl text-center font-bold mt-8 text-gray-600 underline underline-offset-8 decoration-double p-2"> Datavisualisation Accidentologie en vélo - ChartJs</h2>
     <h3 class="font-Roboto text-xl text-center font-bold mt-8 text-gray-600 outline-dotted p-2">ÉNONCÉ</h3>
     <p class="mt-4 ml-4 font-Roboto text-xl">Aujourd’hui, le vélo ne représente que 3% des trajets. Le Plan vélo, présenté par le Gouvernement en septembre 2018, vise à encourager le développement de ce mode de déplacement en levant les principaux freins identifiés. </p>
-    <p class="ml-4 font-Roboto text-xl">Il prévoit ainsi des actions réparties en quatre axes, parmi lesquels l’amélioration de la sécurité routière par le développement d’aménagements cyclables. L’objectif fixé était ainsi d’atteindre 55 477 km d’aménagements cyclables sécurisés (pistes cyclables et voies vertes) en 2022.</p>
     <p class="m-4 font-Roboto text-xl">La problématique</p>
     <ul class="list-disc font-Roboto text-xl ml-10">
         <li>Dans quelle mesure de meilleures infrastructures cyclables diminuent-elles l’accidentologie à vélo ? </li>

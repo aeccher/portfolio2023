@@ -32,7 +32,7 @@
           <!-- <WomanEquerre/> -->
           <img src="../assets/images/WomanEquerre.png" alt="Calligramme d'un personnage en forme d'équerre"  class="lg:mx-80">
           <blockquote class="p-4 border-l-4 border-gray-300 bg-gray-50 dark:border-gray-500 dark:bg-gray-800 lg:ml-60 mt-8">
-            <p class="italic text-2xl text-gray-800 font-Roboto dark:text-white">"Je file tout droit tracer mon angle de vie sous 90 degrés."</p>
+            <p class="italic text-2xl text-gray-800 font-Roboto dark:text-white">"Je file tout droit tracer mon angle de vie."</p>
          </blockquote>
 
 </div>
