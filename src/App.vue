@@ -75,12 +75,18 @@
             </li>
           </ul>
         </nav>
-        
-        <p class="text-base text-center text-gray-400 mt-4 font-Roboto">
-          Portfolio 2023 - Agathe ECCHER 
+
+        <div class="text-base text-centermt-4 font-Roboto mt-4 lg:flex ml-10">
+        <p class="text-gray-400 lg:mr-14">
+          Portfolio 2023 - Agathe ECCHER [ekɛʀ]  
         </p>
+
+        <a href="https://agathe-eccher.fr/MMI/" target="_blank" class=" text-green-500  hover:underline">
+        Projets de mes semestres en MMI </a>
+        </div>
         
-        <a href="https://www.linkedin.com/in/agathe-eccher" target="_blank" type="button" class="flex justify-center gap-6 mt-4 sm:mt-0 lg:justify-end">
+        
+        <a href="https://www.linkedin.com/in/agathe-eccher" target="_blank" type="button" class="flex justify-center gap-6 lg:pr-16 mt-4 sm:mt-0 lg:justify-end">
           <span class="sr-only">LinkedIn</span>
           <icon-linked-in />
         </a>

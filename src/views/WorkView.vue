@@ -25,7 +25,7 @@
           </Router-link>
           <div class="p-5">
               <Router-link to="/chartjs" class="hover:underline decoration-wavy">
-                  <h5 class="mb-2 text-2xl font-bold font-Lato tracking-tight text-gray-900 dark:text-white">Datavisualisation Accidentologie en vélo - ChartJs</h5>
+                  <h5 class="mb-2 text-2xl font-bold font-Lato tracking-tight text-gray-900 dark:text-white">Datavisualisation / Accidentologie en vélo - ChartJs</h5>
               </Router-link>
               <p class="mb-3 font-normal text-gray-600 dark:text-gray-400 font-Roboto">Travail de 2ème année (3ème semestre) du cours Création et Design Interactif (UI) consistant à réaliser une page web avec des graphiques en utilisant ChartJs pour répondre aux problématiques de l'accidentologie en vélo."</p>
               <Router-link to="/chartjs" class="mt-2 inline-flex items-center px-3 py-2 text-sm font-Roboto font-medium text-center text-white bg-green-500 rounded-lg hover:bg-green-600 dark:bg-blue-600 dark:hover:bg-blue-700 dark:focus:ring-blue-800">
@@ -75,7 +75,7 @@
                   <Router-link to="/cassandre" class="hover:underline decoration-wavy">
                       <h5 class="mb-2 text-2xl font-bold font-Lato tracking-tight text-gray-900 dark:text-white">Carte postale à la manière de l'artiste Cassandre</h5>
                   </Router-link>
-                  <p class="mb-3 font-normal text-gray-600 dark:text-gray-400 font-Roboto">Travail de 2ème année (3ème semestre) du cours Culture Artistqiue consistant à réaliser une carte postale à la manière de l'artiste Cassandre."</p>
+                  <p class="mb-3 font-normal text-gray-600 dark:text-gray-400 font-Roboto">Travail de 2ème année (3ème semestre) du cours Culture Artistique consistant à réaliser une carte postale à la manière de l'artiste Cassandre."</p>
                   <Router-link to="/cassandre" class="mt-2 inline-flex items-center px-3 py-2 text-sm font-Roboto font-medium text-center text-white bg-green-500 rounded-lg hover:bg-green-600 dark:bg-blue-600 dark:hover:bg-blue-700 dark:focus:ring-blue-800">
                       En savoir plus
                       <icon-arrow/>

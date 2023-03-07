@@ -3,7 +3,6 @@ import AboutView from './AboutView.vue';
 import WorkView from './WorkView.vue';
 
 
-
 export default {
   components: { AboutView, WorkView},
 }
