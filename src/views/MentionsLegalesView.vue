@@ -3,7 +3,7 @@
     <h2 class="font-Lato text-3xl text-center font-bold mt-8 text-gray-600 underline underline-offset-8 decoration-double p-2">Mentions Légales</h2>
     <p class="font-Roboto text-xl p-4">Cette page décrit les mentions légales qui s'appliquent à tout internaute visitant ce site. En le consultant vous vous engagez sans réserve à les respecter. Les mentions légales pouvant être modifiées à tout moment et sans préavis, nous vous engageons à les consulter régulièrement.</p>
 
-    <h3 class="font-Roboto text-2xl font-bold mt-2 text-gray-600 p-4">Éditeur du site</h3>
+    <h3 class="font-Roboto text-2xl font-bold mt-2 text-gray-600 p-4">Éditeur du site - Responsable éditorial et légal</h3>
     <ul class="list-disc font-Roboto text-xl ml-10">
         <li>Propriétaire : Agathe ECCHER</li>
         <li>E-mail : <a href="mailto:agathe.eccher@edu.univ-fcomte.fr"><span class="text-green-500 underline">agathe.eccher@edu.univ-fcomte.fr</span></a></li>
@@ -27,7 +27,7 @@
 
     <ul class="list-disc font-Roboto text-xl p-4">
         <li class="m-5"><span class="underline font-bold text-gray-600">Graphisme, photos et illustrations : </span>Le graphisme (incluant le webdesign et le logo) a été réalisé par Agathe ECCHER. Le portrait appartient à Imagia. Les autres éléments (images et vidéos) appartientent à Agathe ECCHER.</li>
-        <li class="m-5"><span class="underline font-bold text-gray-600">Déclaration à la CNIL : </span>Conformément à la loi 78-17 du 6 janvier 1978 (modifiée par la loi 2004-801 du 6 août 2004 relative à la protection des personnes physiques à l’égard des traitements de données à caractère personnel) relative à l’informatique, aux fichiers et aux libertés, ce site n’a pas fait l’objet d’une déclaration auprès de la Commission nationale de l’informatique et des libertés (<a class="text-green-500 underline" href="www.cnil.fr">www.cnil.fr</a>).</li>
+        <li class="m-5"><span class="underline font-bold text-gray-600">Déclaration à la CNIL : </span>Conformément à la loi 78-17 du 6 janvier 1978 (modifiée par la loi 2004-801 du 6 août 2004 relative à la protection des personnes physiques à l’égard des traitements de données à caractère personnel) relative à l’informatique, aux fichiers et aux libertés, ce site n’a pas fait l’objet d’une déclaration auprès de la Commission nationale de l’informatique et des libertés (<a class="text-green-500 underline" href="https://www.cnil.fr/">www.cnil.fr</a>).</li>
         <li class="m-5"><span class="underline font-bold text-gray-600">Litiges :</span> Les présentes conditions du site <span class="underline">https://portfolio.agathe-eccher.fr </span>sont régies par les lois françaises et toute contestation ou litiges qui pourraient naître de l’interprétation ou de l’exécution de celles-ci seront de la compétence exclusive des tribunaux dont dépend le siège social de la société. La langue de référence, pour le règlement de contentieux éventuels, est le français.</li>
     </ul>
 

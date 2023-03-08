@@ -35,7 +35,7 @@
         :class="{ 'translate-x-0': menuOuvert }">
         <ul class="p-10 text-3xl font-bold font-Roboto text-white grid gap-8 place-content-center mt-24">
           <li>
-            <Router-link to="/about" @click="menuOuvert = false" >À propros de moi</Router-link>
+            <Router-link to="/about" @click="menuOuvert = false" >À propos de moi</Router-link>
           </li>
           <li>
             <Router-link to="/travail" @click="menuOuvert = false" >Travail</Router-link>
@@ -48,7 +48,7 @@
     </nav>
 
     <div class="hidden flex-auto justify-end items-center text-lg text-white gap-24 pb-4 pt-6 pr-16 md:flex">
-      <Router-link to="/about" class="font-Roboto hover:underline">À propros de moi</Router-link>
+      <Router-link to="/about" class="font-Roboto hover:underline">À propos de moi</Router-link>
       <Router-link to="/travail" class="font-Roboto hover:underline">Travail</Router-link>
       <Router-link to="/contact" class="px-12 py-3 font-medium border border-white rounded-full hover:bg-white hover:text-green-500 font-Roboto">Contact</Router-link>
     </div>
