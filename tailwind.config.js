@@ -6,14 +6,15 @@ module.exports = {
   theme: {
     extend: {
       "colors": {
-        // Ici vos couleurs exportées de Figma
+        // Ici couleurs exportées de Figma
       },
       "fontFamily": {
         'Lato': ['Lato, sans-serif'],
         'Roboto': ['Roboto, sans-serif']
       },
+      "fontSize": {
+        '10xl': ['12.5rem'], 
+      },
     },
-
-  },
   plugins: [],
-}
+}}

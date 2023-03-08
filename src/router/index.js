@@ -41,7 +41,12 @@ const router = createRouter({
 
     { path: '/merci', name: 'Merci', component: MerciView },
 
-  ]
+  ],
+  scrollBehavior (to, from, savedPosition) {
+
+    return { left: 0, top: 0 }
+
+  }
 })
 
 export default router
