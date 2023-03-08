@@ -5,7 +5,7 @@
       <!-- Card - Illustration de la Citadelle -->
       <div class="max-w-sm border border-green-500 rounded-lg dark:bg-gray-800 dark:border-gray-700 m-4">
           <Router-link to="/illustration-citadelle" class="hover:opacity-70 ">
-              <img class="rounded-t-lg" src="../assets/images/illustration_citadelle.svg" alt="Illustration de la Citadelle de Besançon" />
+              <img class="rounded-t-lg" src="../assets/images/illustration_citadelle.webp" alt="Illustration de la Citadelle de Besançon" />
           </Router-link>
           <div class="p-5">
               <Router-link to="/illustration-citadelle" class="hover:underline decoration-wavy">
@@ -21,7 +21,7 @@
   <!-- Card - ChartJs Accidents de vélo Dataviz -->
   <div class="max-w-sm border border-green-500 rounded-lg dark:bg-gray-800 dark:border-gray-700 m-4">
           <Router-link to="/chartjs" class="hover:opacity-70 ">
-              <img class="rounded-t-lg" src="../assets/images/accident_velo.png" alt="Illustration d'un accident de vélo" />
+              <img class="rounded-t-lg" src="../assets/images/accident_velo.webp" alt="Illustration d'un accident de vélo" />
           </Router-link>
           <div class="p-5">
               <Router-link to="/chartjs" class="hover:underline decoration-wavy">
@@ -37,7 +37,7 @@
       <!-- Card - ThreeJs Balancier Lego -->
       <div class="max-w-sm border border-green-500 rounded-lg dark:bg-gray-800 dark:border-gray-700 m-4">
               <Router-link to="/threejs" class="hover:opacity-70 ">
-                  <img class="rounded-t-lg" src="../assets/images/balancier_lego.png" alt="Image d'un balancier avec ThreeJs"/>
+                  <img class="rounded-t-lg" src="../assets/images/balancier_lego.webp" alt="Image d'un balancier avec ThreeJs"/>
               </Router-link>
               <div class="p-5">
                   <Router-link to="/threejs" class="hover:underline decoration-wavy">
@@ -53,7 +53,7 @@
       <!-- Card - Affiche expo universelle et carte postale-->
       <div class="max-w-sm border border-green-500 rounded-lg dark:bg-gray-800 dark:border-gray-700 m-4">
               <Router-link to="/exposition-universelle" class="hover:opacity-70 ">
-                  <img class="rounded-t-lg" src="../assets/images/expo_univ.png" alt="Affiche exposition univirselle Osaka" />
+                  <img class="rounded-t-lg" src="../assets/images/expo_univ.webp" alt="Affiche exposition univirselle Osaka" />
               </Router-link>
               <div class="p-5">
                   <Router-link to="/exposition-universelle" class="hover:underline decoration-wavy">
@@ -69,7 +69,7 @@
       <!-- Card - Carte postale à la manière de cassandre -->
       <div class="max-w-sm border border-green-500 rounded-lg dark:bg-gray-800 dark:border-gray-700 m-4">
               <Router-link to="/cassandre" class="hover:opacity-70 ">
-                  <img class="rounded-t-lg" src="../assets/images/cassandre.svg" alt="Illustration d'un cycliste devant son vélo buvant de l'eau" />
+                  <img class="rounded-t-lg" src="../assets/images/cassandre.webp" alt="Illustration d'un cycliste devant son vélo buvant de l'eau" />
               </Router-link>
               <div class="p-5">
                   <Router-link to="/cassandre" class="hover:underline decoration-wavy">
@@ -85,7 +85,7 @@
       <!-- Card - Jeu Hypercube -->
       <div class="max-w-sm border border-green-500 rounded-lg dark:bg-gray-800 dark:border-gray-700 m-4">
               <Router-link to="/hypercube" class="hover:opacity-70 ">
-                  <img class="rounded-t-lg" src="../assets/images/hypercube.jpg" alt="plateau du jeu Hypercube" />
+                  <img class="rounded-t-lg" src="../assets/images/hypercube.webp" alt="plateau du jeu Hypercube" />
               </Router-link>
               <div class="p-5">
                   <Router-link to="/hypercube" class="hover:underline decoration-wavy">
@@ -101,7 +101,7 @@
        <!-- Card - Blender -->
        <div class="max-w-sm border border-green-500 rounded-lg dark:bg-gray-800 dark:border-gray-700 m-4">
           <Router-link to="/blender" class="hover:opacity-70 ">
-                              <img class="rounded-t-lg" src="../assets/images/blender.png" alt="Clé modélisée en 3D" />
+                              <img class="rounded-t-lg" src="../assets/images/blender.webp" alt="Clé modélisée en 3D" />
                           </Router-link>
                           <div class="p-5">
                               <Router-link to="/blender" class="hover:underline decoration-wavy">
@@ -117,7 +117,7 @@
        <!-- Card - SAÉ 202 -->
        <div class="max-w-sm border border-green-500 rounded-lg dark:bg-gray-800 dark:border-gray-700 m-4">
           <Router-link to="/ecobiking" class="hover:opacity-70 ">
-                              <img class="rounded-t-lg" src="../assets/images/sae202.jpg" alt="Site ecobiking" />
+                              <img class="rounded-t-lg" src="../assets/images/sae202.webp" alt="Site ecobiking" />
                           </Router-link>
                           <div class="p-5">
                               <Router-link to="/ecobiking" class="hover:underline decoration-wavy">
