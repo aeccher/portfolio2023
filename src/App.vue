@@ -50,7 +50,7 @@
     <div class="hidden flex-auto justify-end items-center text-lg text-white gap-24 pb-4 pt-6 pr-16 md:flex">
       <Router-link to="/about" class="font-Roboto hover:underline">À propos de moi</Router-link>
       <Router-link to="/travail" class="font-Roboto hover:underline">Travail</Router-link>
-      <Router-link to="/contact" class="px-12 py-3 font-medium border border-white rounded-full hover:bg-white hover:text-green-500 font-Roboto">Contact</Router-link>
+      <Router-link to="/contact" class="px-12 py-3 font-Roboto border border-white rounded-full hover:bg-white hover:text-green-500">Contact</Router-link>
     </div>
   </header>
 
@@ -76,7 +76,7 @@
           </ul>
         </nav>
 
-        <div class="text-base text-centermt-4 font-Roboto mt-4 lg:flex ml-10">
+        <div class="text-base text-center font-Roboto mt-4 lg:mt-0 lg:flex ml-10">
         <p class="text-gray-400 lg:mr-14">
           Portfolio 2023 - Agathe ECCHER [ekɛʀ]  
         </p>
@@ -85,21 +85,21 @@
         Projets de mes semestres en MMI </a>
         </div>
         
-        <div class="flex justify-center lg:justify-end lg:mr-10 items-center mt-4 ">
-        <a href="https://www.linkedin.com/in/agathe-eccher" target="_blank" type="button" class="mr-4">
-          <span class="sr-only">LinkedIn</span>
-          <icon-linked-in />
-        </a>
-
-        <a href="https://www.instagram.com/agatheccher/" target="_blank" type="button" class="">
+        <div class="flex justify-center items-center mt-4 lg:justify-end lg:mr-10 lg:mt-0">
+          <a href="https://www.instagram.com/agatheccher/" target="_blank" type="button" class="mr-4">
           <span class="sr-only">Instagram</span>
           <IconInsta />
         </a>
+
+        <a href="https://www.linkedin.com/in/agathe-eccher" target="_blank" type="button" class="">
+          <span class="sr-only">LinkedIn</span>
+          <icon-linked-in />
+        </a>   
         </div>
     </div>
   </div>
 </footer>
-
+<!-- fin du Footer -->
 
 </template>
 
