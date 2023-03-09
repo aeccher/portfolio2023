@@ -129,7 +129,23 @@
                                   <icon-arrow/>
                               </Router-link>
                           </div>
-        </div>
+            </div>
+       <!-- Card - Jenfi -->
+       <div class="max-w-sm border border-green-500 rounded-lg dark:bg-gray-800 dark:border-gray-700 m-4">
+          <Router-link to="/jenfi" class="hover:opacity-70 ">
+                              <img class="rounded-t-lg" src="../assets/images/jenfi_page_accueil.webp" alt="Maquette du site Jenfi" />
+                          </Router-link>
+                          <div class="p-5">
+                              <Router-link to="/jenfi" class="hover:underline decoration-wavy">
+                                  <h5 class="mb-2 text-2xl font-bold font-Lato tracking-tight text-gray-900 dark:text-white"> JENFI - Projet configurateur (prototype)</h5>
+                              </Router-link>
+                              <p class="mb-3 font-normal text-gray-600 dark:text-gray-400 font-Roboto">Travail de 2ème année (3ème semestre) du cours Design d'Expérience consistant à réaliser un site qui permet de configurer/personnaliser une chaussure.  </p>
+                              <Router-link to="/jenfi" class="mt-8 inline-flex items-center px-3 py-2 text-sm font-Roboto font-medium text-center text-white bg-green-500 rounded-lg hover:bg-green-600 dark:bg-blue-600 dark:hover:bg-blue-700 dark:focus:ring-blue-800">
+                                  En savoir plus
+                                  <icon-arrow/>
+                              </Router-link>
+                          </div>
+            </div>
  
  
   </div>
