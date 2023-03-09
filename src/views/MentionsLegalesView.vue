@@ -6,7 +6,7 @@
     <h3 class="font-Roboto text-2xl font-bold mt-2 text-gray-600 p-4">Éditeur du site - Responsable éditorial et légal</h3>
     <ul class="list-disc font-Roboto text-xl ml-10">
         <li>Propriétaire : Agathe ECCHER</li>
-        <li>E-mail : <a href="mailto:agathe.eccher@edu.univ-fcomte.fr"><span class="text-green-500 underline">agathe.eccher@edu.univ-fcomte.fr</span></a></li>
+        <li>E-mail : <a href="mailto:agathe.eccher@edu.univ-fcomte.fr"><span class="text-green-500 underline">contact@edu.agathe-eccher.fr</span></a></li>
     </ul>
 
     <h3 class="font-Roboto text-2xl font-bold mt-8 text-gray-600 p-4">Hébergeur</h3>

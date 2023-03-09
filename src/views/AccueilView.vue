@@ -1,24 +1,16 @@
 <script>
 import AboutView from './AboutView.vue';
 import WorkView from './WorkView.vue';
-import Typed from 'typed.js';
+import TypedJs from '../components/TypedJs.vue'
 
 
 export default {
-  components: { AboutView, WorkView},
-  mounted() {
-        const options = {
-        strings: ['Bonjour...', 'Hello...', '¡Holà!'],
-        typeSpeed: 200,
-        loop: true,
-        }
-    const typed = new Typed('#typed', options)
-        }
+  components: { AboutView, WorkView, TypedJs},
     }
 </script>
 
 <template>
-  <div id="typed" class="text-center lg:text-left lg:ml-16 lg:text-8xl pt-6 pb-4 text-4xl font-Roboto text-green-500"></div>
+  <TypedJs/>
   <hr class="h-px mb-8 bg-gray-200 border-0 dark:bg-gray-700">
   <main>
     <AboutView/>

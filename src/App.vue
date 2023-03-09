@@ -85,12 +85,17 @@
         Projets de mes semestres en MMI </a>
         </div>
         
-        
-        <a href="https://www.linkedin.com/in/agathe-eccher" target="_blank" type="button" class="flex justify-center gap-6 lg:pr-16 mt-4 sm:mt-0 lg:justify-end">
+        <div class="flex justify-center lg:justify-end lg:mr-10 items-center mt-4 ">
+        <a href="https://www.linkedin.com/in/agathe-eccher" target="_blank" type="button" class="mr-4">
           <span class="sr-only">LinkedIn</span>
           <icon-linked-in />
         </a>
-   
+
+        <a href="https://www.instagram.com/agatheccher/" target="_blank" type="button" class="">
+          <span class="sr-only">Instagram</span>
+          <IconInsta />
+        </a>
+        </div>
     </div>
   </div>
 </footer>
@@ -103,6 +108,7 @@ import IconLogo from "./components/icons/IconLogo.vue";
 import IconMenu from "./components/icons/IconMenu.vue";
 import IconCross from "./components/icons/IconCross.vue";
 import IconLinkedIn from "./components/icons/IconLinkedIn.vue";
+import IconInsta from "./components/icons/IconInsta.vue";
 
 export default {
   name: "App",
@@ -111,7 +117,7 @@ export default {
       menuOuvert: false,
     };
   },
-  components: { IconLogo, IconMenu, IconCross, IconLinkedIn },
+  components: { IconLogo, IconMenu, IconCross, IconLinkedIn, IconInsta },
 };
 
 </script>
