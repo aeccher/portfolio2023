@@ -97,7 +97,7 @@
 
 </script>
 
-<template>
+<template></template>
     <div>
         <button type="button" @click="locMe()">Se localiser</button>
         <span v-if="coordMe">
