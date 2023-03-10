@@ -4,7 +4,7 @@
        <div class="flex-col columns-1 pl-12 lg:columns-2">  
             <img class="rounded-xl h-80 m-auto my-20" src="../assets/images/portrait.webp" alt="Portrait de Agathe ECCHER" />
             <h3 class="font-Lato text-center text-3xl font-bold mt-8 text-gray-600 underline underline-offset-8 decoration-double p-2">Études</h3>
-            <ol class="relative border-l border-gray-200 dark:border-gray-700 m-8">                  
+            <ol class="relative -z-50 border-l border-gray-200 dark:border-gray-700 m-8">                  
                 <li class="mb-10 ml-4">
                     <div class="absolute w-3 h-3 bg-gray-200 rounded-full mt-1.5 -left-1.5 border border-white dark:border-gray-900 dark:bg-gray-700"></div>
                     <time class="mb-1 text-base font-normal font-Roboto leading-none text-gray-400 dark:text-gray-500">Septembre 2021 - Août 2024 </time>

@@ -1,5 +1,5 @@
 <template>
-    <h2 class="font-Lato text-3xl text-center font-bold mt-8 text-gray-600 underline underline-offset-8 decoration-double p-2"> Prototype - site JENFY</h2>
+    <h2 class="font-Lato text-3xl text-center font-bold mt-8 text-gray-600 underline underline-offset-8 decoration-double p-2"> Prototype - site JENFI</h2>
 
     <h3 class="font-Roboto text-xl text-center font-bold mt-8 text-gray-600 outline-dotted p-2"> ÉNONCÉ </h3>
     <p class="mt-4 ml-4 font-Roboto text-xl font-semibold text-gray-600">Comment mettre en place un site web offrant une expérience utilisateur de qualité?</p>
@@ -10,17 +10,17 @@
     <p class="mt-4 ml-4 font-Roboto text-xl underline font-bold">Étapes</p>
     <ul class="list-decimal font-Roboto text-xl ml-16 mr-2">
         <li class="mt-2"><span class="underline">Recherches et croquis sur papier</span> 
-        <p class="mt-2">Imaginer une marque de chaussure personnalisable (Basket, mocassin, pantoufle, ...). Attention à votre cible !</p>
-        <p class="mt-2">Concever l’identité visuelle - Charte graphique simple, 1 planche (Brandboard)</p>
-        <p class="my-2">Dessiner le «Fil de fer» de votre projet, 1 page accueil, 1 page personnalisation, 1 page compte utilisateur.
-        Attention à l’impact visuel et à la facilitation de la navigation.</p>
+        <p class="mt-2">- Imaginer une marque de chaussure personnalisable (Basket, mocassin, pantoufle, ...). Attention à votre cible !</p>
+        <p class="mt-2">- Concever l’identité visuelle - Charte graphique simple, 1 planche (Brandboard).</p>
+        <p class="mt-2">- Dessiner le «Fil de fer» de votre projet, 1 page accueil, 1 page personnalisation, 1 page compte utilisateur.</p> 
+        <p class="mb-2 pl-2">Attention à l’impact visuel et à la facilitation de la navigation.</p>
         </li>
         <li><span class="underline">Prototype</span> 
-        <p class="mt-2">Réaliser la maquette de l’interface (FIGMA) - Rendu : 1 page accueil, 1 page personnalisation,1 page création du compte utilisateur</p>
-        <p class="my-2">Dessin vectoriel de base d’une chaussure : Générer les différents dessins (Illustrator (format svg))</p>
+        <p class="mt-2">- Réaliser la maquette de l’interface (FIGMA) - Rendu : 1 page accueil, 1 page personnalisation,1 page création du compte utilisateur</p>
+        <p class="my-2">- Dessin vectoriel de base d’une chaussure : Générer les différents dessins (Illustrator (format svg)).</p>
         </li>
         <li><span class="underline">Tests</span> 
-        <p class="mt-2">Réaliser des tests et écrire un bilan.</p>
+        <p class="mt-2">- Réaliser des tests et écrire un bilan.</p>
         </li>
     </ul> 
 
@@ -34,17 +34,17 @@
 
     <h3 class="font-Roboto text-xl text-center font-bold mt-8 text-gray-600  outline-dotted p-2">CIBLE</h3>
     <ul class="list-outside font-Roboto text-xl mx-4 my-4">
-        <li class="mt-2"><span class="underline font-semibold">Persona </span>: Jean-Philippe 57 ans, en couple, directeur du musée archéologique de Besançon </li>
-        <li class="mt-2"><span class="underline font-semibold">Lieu </span>: piscine municipale</li>
+        <li class="mt-2"><span class="underline font-semibold">Persona </span>: Jean-Philippe 57 ans, en couple, directeur du musée archéologique de Besançon. </li>
+        <li class="mt-2"><span class="underline font-semibold">Lieu </span>: Piscine municipale.</li>
         <li class="mt-4"><span class="underline font-semibold">Scénario </span>: Il se rend à son cours de natation dans la piscine municipale de Besançon quand soudain il se noie.</li>   
     </ul> 
     <img src="../assets/images/scenario_usager.webp" alt="Scenario usager" class="m-auto py-8 lg:w-1/3">
  
     <h3 class="font-Roboto text-xl text-center font-bold mt-8 text-gray-600  outline-dotted p-2">Planche de présentation de l'identité visuelle simple - Brandboard</h3>
-    <img src="../assets/images/brandboard.webp" alt="Brandboard" class="m-auto py-8">
+    <img src="../assets/images/brandboard.webp" alt="Brandboard" class="m-auto py-8  px-4">
 
     <h3 class="font-Roboto text-xl text-center font-bold mt-8 text-gray-600  outline-dotted p-2">Dessin vectoriel de base de la chaussure : une basket</h3>
-    <img src="../assets/images/basket.webp" alt="Illustration d'une basket noir/blanc" class="m-auto py-8">
+    <img src="../assets/images/basket.webp" alt="Illustration d'une basket noir/blanc" class="m-auto py-12 px-6">
 
     <h3 class="font-Roboto text-xl text-center font-bold mt-8 text-gray-600  outline-dotted p-2">TRAVAIL RENDU</h3>
     <div class="lg:flex lg:justify-evenly grid">
@@ -62,7 +62,7 @@
     </a>
 
     <h3 class="font-Roboto text-xl text-center font-bold mt-8 text-gray-600 outline-dotted p-2"> Résultats des TESTS </h3>
-    <img src="../assets/images/resultats_tests.webp" alt="Tableau des résultats des tests utilisateurs" class="lg:w-1/2 h-1/ py-8 m-auto">
+    <img src="../assets/images/resultats_tests.webp" alt="Tableau des résultats des tests utilisateurs" class="lg:w-1/2 h-1/ py-8 m-auto px-4">
 
     
 </template>

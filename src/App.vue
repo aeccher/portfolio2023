@@ -1,10 +1,10 @@
 <template>
   <!-- Header -->
-  <header class="flex bg-green-500">
+  <header class="flex bg-green-500 ">
     <nav class="flex items-center">
       <router-link to="/" class="flex items-center">
         <icon-logo class="ml-4" />
-        <h1 class="text-lg font-thin text-white font-Roboto">Ag@the ECCHER</h1>
+        <h1 class="text-lg font-thin text-white font-Roboto hover:underline hover:text-gray-100 ">Ag@the ECCHER</h1>
         <span class="sr-only">Logo retour Accueil</span>
       </router-link>
     </nav> 
@@ -48,8 +48,8 @@
     </nav>
 
     <div class="hidden flex-auto justify-end items-center text-lg text-white gap-24 pb-4 pt-6 pr-16 md:flex">
-      <Router-link to="/about" class="font-Roboto hover:underline">À propos de moi</Router-link>
-      <Router-link to="/travail" class="font-Roboto hover:underline">Travail</Router-link>
+      <Router-link to="/about" class="font-Roboto hover:underline hover:text-gray-100">À propos de moi</Router-link>
+      <Router-link to="/travail" class="font-Roboto hover:underline hover:text-gray-100">Travail</Router-link>
       <Router-link to="/contact" class="px-12 py-3 font-Roboto border border-white rounded-full hover:bg-white hover:text-green-500">Contact</Router-link>
     </div>
   </header>
@@ -65,13 +65,13 @@
         <nav aria-label="Footer Navigation">
           <ul class="flex flex-wrap justify-center gap-4 text-base text-gray-500 lg:justify-end">
             <li>
-              <Router-link to="/about" class="hover:underline mr-6 font-Roboto">Qui suis-je ?</Router-link>
+              <Router-link to="/about" class="hover:underline mr-6 font-Roboto hover:text-green-500">Qui suis-je ?</Router-link>
             </li>
             <li>
-              <Router-link to="/contact" class="hover:underline mr-6 font-Roboto">Contact</Router-link>
+              <Router-link to="/contact" class="hover:underline mr-6 font-Roboto hover:text-green-500">Contact</Router-link>
             </li>
             <li>
-              <Router-link to="/mentions-legales" class="hover:underline mr-6 font-Roboto">Mentions légales</Router-link>
+              <Router-link to="/mentions-legales" class="hover:underline mr-6 font-Roboto hover:text-green-500">Mentions légales</Router-link>
             </li>
           </ul>
         </nav>
@@ -81,7 +81,7 @@
           Portfolio 2023 - Agathe ECCHER [ekɛʀ]  
         </p>
 
-        <a href="https://agathe-eccher.fr/MMI/" target="_blank" class=" text-green-500  hover:underline">
+        <a href="https://agathe-eccher.fr/MMI/" target="_blank" class=" text-green-500  hover:underline hover:text-green-600">
         Projets de mes semestres en MMI </a>
         </div>
         

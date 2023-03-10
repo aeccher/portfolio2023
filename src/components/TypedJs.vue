@@ -1,7 +1,10 @@
 <script>
 import Typed from 'typed.js';
+import IconChevronsDown from "../components/icons/IconChevronsDown.vue";
+
 
 export default {
+  components: { IconChevronsDown },
   mounted() {
         const options = {
         strings: ['Bonjour...', 'Hello...', '¡Holà!'],
@@ -13,6 +16,10 @@ export default {
     }
 </script>
 
-<template>
-  <div id="typed" class="text-center lg:text-left lg:ml-16 lg:text-8xl pt-6 pb-4 text-4xl font-Roboto text-green-500"></div>
+<template >
+  <div class="py-52">
+  <div id="typed" class="md:ml-16 text-8xl pb-10 align-text-center text-center font-Roboto text-green-500"></div>
+  <IconChevronsDown class="m-auto"/>
+  </div>
 </template>
+
