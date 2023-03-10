@@ -1,5 +1,5 @@
 <template>
-    <h2 class="font-Lato text-3xl text-center font-bold mt-8 text-gray-600 underline underline-offset-8 decoration-double p-2"> Datavisualisation Accidentologie en vélo - ChartJs</h2>
+    <h2 class="font-Lato text-3xl text-center font-bold mt-16 lg:mt-32 text-gray-600 underline underline-offset-8 decoration-double p-2"> Datavisualisation Accidentologie en vélo - ChartJs</h2>
     <h3 class="font-Roboto text-xl text-center font-bold mt-8 text-gray-600 outline-dotted p-2">ÉNONCÉ</h3>
     <p class="mt-4 ml-4 font-Roboto text-xl">Aujourd’hui, le vélo ne représente que 3% des trajets. Le Plan vélo, présenté par le Gouvernement en septembre 2018, vise à encourager le développement de ce mode de déplacement en levant les principaux freins identifiés. </p>
     <p class="m-4 font-Roboto text-xl underline font-bold text-gray-600">La problématique</p>

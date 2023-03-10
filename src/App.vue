@@ -1,6 +1,6 @@
 <template>
   <!-- Header -->
-  <header class="flex bg-green-500 fixed w-full mt-0">
+  <header class="flex bg-green-500 fixed top-0 w-full z-30">
     <nav class="flex items-center">
       <router-link to="/" class="flex items-center">
         <icon-logo class="ml-4" />
@@ -76,7 +76,7 @@
           </ul>
         </nav>
 
-        <div class="text-base text-center font-Roboto mt-4 lg:mt-0 lg:flex mx-auto justify-center">
+        <div class="text-base text-center font-Roboto mt-3 lg:mt-0 lg:flex mx-auto justify-center">
         <p class="text-gray-400 lg:mr-14">
           Portfolio 2023 - Agathe ECCHER [ekɛʀ]  
         </p>
@@ -85,7 +85,7 @@
         Projets de mes semestres en MMI </a>
         </div>
         
-        <div class="flex justify-center items-center mt-4 lg:justify-end lg:mr-10 lg:mt-0">
+        <div class="flex justify-center items-center mt-3 lg:justify-end lg:mr-10 lg:mt-0">
           <a href="https://www.instagram.com/agatheccher/" target="_blank" type="button" class="mr-4">
           <span class="sr-only">Instagram</span>
           <IconInsta />

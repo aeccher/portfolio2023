@@ -7,9 +7,10 @@ export default {
   components: { IconChevronsDown },
   mounted() {
         const options = {
-        strings: ['Bonjour...', 'Hello...', '¡Holà!'],
+        strings: ['Bonjour,', 'Hello...', '¡Holà!'],
         typeSpeed: 200,
         loop: true,
+        showCursor: "false",
         }
     const typed = new Typed('#typed', options)
         }

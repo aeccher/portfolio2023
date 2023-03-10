@@ -1,4 +1,4 @@
-<script lang="ts">
+<script setup>
     // import éléments de vue 
     import { onMounted, ref, reactive } from 'vue'
     // import leaflet 
