@@ -44,11 +44,19 @@
 
 </template>
 
-<script>
+
+  <!-- recaptcha
+  <script src="https://www.google.com/recaptcha/enterprise.js?render=6Ld6QtUkAAAAACMNGpFFBoyz4WAWmG5-sHAB2SpV"></script> -->
+
+
+<script >
+// recaptcha 
    function onSubmit(token) {
      document.getElementById("form").submit();
    }
+
 </script>
+
 
 
 

@@ -76,7 +76,7 @@
           </ul>
         </nav>
 
-        <div class="text-base text-center font-Roboto mt-4 lg:mt-0 lg:flex ml-10">
+        <div class="text-base text-center font-Roboto mt-4 lg:mt-0 lg:flex mx-auto justify-center">
         <p class="text-gray-400 lg:mr-14">
           Portfolio 2023 - Agathe ECCHER [ekɛʀ]  
         </p>
