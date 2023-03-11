@@ -1,6 +1,6 @@
 <template>
   <!-- Header -->
-  <header class="flex bg-green-500 fixed top-0 w-full z-30">
+  <header class="flex bg-green-500 fixed top-0 w-full z-10">
     <nav class="flex items-center">
       <router-link to="/" class="flex items-center">
         <icon-logo class="ml-4" />

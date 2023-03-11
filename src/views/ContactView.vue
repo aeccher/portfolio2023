@@ -1,6 +1,6 @@
 <template>
 
-  <div class="flex-col columns-1 pl-12 lg:justify-evenly lg:columns-2 mt-16 lg:mt-28">
+  <div class="flex-col columns-1 lg:pl-5 lg:justify-evenly lg:columns-2 mt-20 lg:mt-32">
 
   <MapOsm/>
   
@@ -8,19 +8,19 @@
   <div class="container py-12 ">
     <div class="flex flex-col text-center w-full mb-12">
       <h2 class="sm:text-3xl text-2xl font-medium title-font mb-4 text-gray-900 font-Lato">Contactez-moi</h2>
-      <p class="text-base font-Roboto">Écrivez votre message ci-dessous, j'y répondrai dans les plus brefs délais.</p>
+      <p class="text-lg font-Roboto ">Écrivez votre message ci-dessous, j'y répondrai dans les plus brefs délais.</p>
     </div>
     <div class="">
       <form id="form" class="flex flex-wrap" action="https://formsubmit.co/agatheec@free.fr" method="POST">
         <div class="p-2">
           <div class="relative">
-            <label for="name" class="leading-7 text-xs text-gray-600 font-Roboto w-2/3">Prénom &#x26; Nom</label>
-            <input type="text" id="name" name="name" placeholder="Prénom NOM" required class="font-Roboto w-2/3 bg-gray-100 bg-opacity-50 rounded border border-gray-300 focus:border-indigo-500 focus:bg-white focus:ring-2 focus:ring-indigo-200 text-base outline-none text-gray-700 py-1 px-3 leading-8 transition-colors duration-200 ease-in-out">
+            <label for="name" class="leading-7 text-xs text-gray-600 font-Roboto w-full">Prénom &#x26; Nom</label>
+            <input type="text" id="name" name="name" placeholder="Prénom NOM" required class="font-Roboto w-10/12 bg-gray-100 bg-opacity-50 rounded border border-gray-300 focus:border-indigo-500 focus:bg-white focus:ring-2 focus:ring-indigo-200 text-base outline-none text-gray-700 py-1 px-3 leading-8 transition-colors duration-200 ease-in-out">
           </div>
         </div>
         <div class="p-2">
           <div class="relative">
-            <label for="email" class="leading-7 text-xs text-gray-600 font-Roboto">Email</label>
+            <label for="email" class="leading-7 text-xs text-gray-600 font-Roboto w-full">Email</label>
             <input type="email" id="email" name="email" placeholder="prenom.nom@exemple.fr" required class="font-Roboto w-full bg-gray-100 bg-opacity-50 rounded border border-gray-300 focus:border-indigo-500 focus:bg-white focus:ring-2 focus:ring-indigo-200 text-base outline-none text-gray-700 py-1 px-3 leading-8 transition-colors duration-200 ease-in-out">
           </div>
         </div>
