@@ -1,9 +1,6 @@
 <template>
 
   <div class="flex-col columns-1 lg:pl-5 lg:justify-evenly lg:columns-2 mt-20 lg:mt-32">
-
-  <MapOsm/>
-  
     <section class="text-gray-600 body-font relative ">
   <div class="container py-12 ">
     <div class="flex flex-col text-center w-full mb-12">
@@ -45,6 +42,8 @@
     </div>
   </div>
 </section>
+
+<MapOsm/>
 </div>
 </template>
 
