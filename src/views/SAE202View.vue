@@ -2,9 +2,9 @@
     <h2 class="font-Lato text-3xl text-center font-bold mt-16 lg:mt-32 text-gray-600 underline underline-offset-8 decoration-double p-2"> Site ECOBIKING - SAÉ 202</h2>
 
     <h3 class="font-Roboto text-xl text-center font-bold mt-8 text-gray-600 outline-dotted p-2"> ANALYSE / CONCEPT </h3>
-    <div class="grid">
-    <img src="../assets/images/map_positionnement.webp" alt="Map de positionnment du site" class="p-4 m-auto">
-    <img src="../assets/images/entretien.webp" alt="Graphique analyse des entretiens du concept" class="p-4 m-auto">
+    <div class="grid justify-center md:flex md:justify-evenly md:py-12">
+    <img src="../assets/images/map_positionnement.webp" alt="Map de positionnment du site" class="p-4 m-auto lg:w-2/6">
+    <img src="../assets/images/entretien.webp" alt="Graphique analyse des entretiens du concept" class="p-4 m-auto lg:w-2/6">
     </div>
 
     <a href="https://docs.google.com/document/d/1jYq2TOkcss2bjyj0LVbDWKSxzLE91zqv6JG5e4XM1iM/edit" target="_blank" class="m-12 inline-flex items-center text-center text-2xl text-green-500 font-Roboto hover:underline">
