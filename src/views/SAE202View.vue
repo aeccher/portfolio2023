@@ -1,5 +1,5 @@
 <template>
-    <h2 class="font-Lato text-3xl text-center font-bold mt-8 text-gray-600 underline underline-offset-8 decoration-double p-2"> Site ECOBIKING - SAÉ 202</h2>
+    <h2 class="font-Lato text-3xl text-center font-bold mt-16 lg:mt-32 text-gray-600 underline underline-offset-8 decoration-double p-2"> Site ECOBIKING - SAÉ 202</h2>
 
     <h3 class="font-Roboto text-xl text-center font-bold mt-8 text-gray-600 outline-dotted p-2"> ANALYSE / CONCEPT </h3>
     <div class="grid">
@@ -23,7 +23,7 @@
     <IconChevron/>
     </a>
 
-    <h3 class="font-Roboto text-xl text-center font-bold mt-16 lg:mt-32 text-gray-600 outline-dotted p-2">TECHNIQUE UTILISÉE</h3>
+    <h3 class="font-Roboto text-xl text-center font-bold mt-8 text-gray-600 outline-dotted p-2">TECHNIQUE UTILISÉE</h3>
     <img src="../assets/images/technique.webp" alt="Wordpress, thème Avada et plug-in : Polylang et Contac Form 7" class="w-1/2 h-1/ py-8 m-auto">
 
     <h3 class="font-Roboto text-xl text-center font-bold mt-8 text-gray-600 outline-dotted p-2">SITE FINAL</h3>

@@ -14,6 +14,8 @@ import HypercubeView from '../views/HypercubeView.vue'
 import BlenderView from '../views/BlenderView.vue'
 import SAE202View from '../views/SAE202View.vue'
 import JenfiView from '../views/JenfiView.vue'
+import DossierMoiView from '../views/DossierMoiView.vue'
+import Defi24hView from '../views/Defi24hView.vue'
 
 import NotFoundView from '../views/NotFoundView.vue'
 
@@ -38,6 +40,8 @@ const router = createRouter({
     { path: '/blender', name: 'Blender', component: BlenderView },
     { path: '/ecobiking', name: 'Ecobiking', component: SAE202View },
     { path: '/jenfi', name: 'Jenfi', component: JenfiView },
+    { path: '/dossier-moi', name: 'DossierMoi', component: DossierMoiView },
+    { path: '/defi24h', name: 'Defi24h', component: Defi24hView },
 
     { path: '/404', alias: '/:catchAll(.*)', name: 'NotFound', component: NotFoundView },
 
