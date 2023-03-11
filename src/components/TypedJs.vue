@@ -9,8 +9,9 @@ export default {
         const options = {
         strings: ['Bonjour,', 'Hello...', '¡Holà!'],
         typeSpeed: 200,
-        loop: true,
-        showCursor: "false",
+        loop: false,
+        showCursor: false,
+        
         }
     const typed = new Typed('#typed', options)
         }
