@@ -43,7 +43,7 @@
                   <Router-link to="/threejs" class="hover:underline hover:decoration-wavy hover:text-black">
                       <h5 class="mt-9 mb-5 text-2xl font-bold font-Lato tracking-tight text-gray-900 dark:text-white">Balancier avec ThreeJs</h5>
                   </Router-link>
-                  <p class="mb-16 font-normal text-gray-600 dark:text-gray-400 font-Roboto">Travail de 2ème année (4ème semestre) du cours Développement Front consistant à réaliser un balancier en WebGL avec ThreeJs.</p>
+                  <p class="lg:mb-16 font-normal text-gray-600 dark:text-gray-400 font-Roboto">Travail de 2ème année (4ème semestre) du cours Développement Front consistant à réaliser un balancier en WebGL avec ThreeJs.</p>
                   <Router-link to="/threejs" class="mt-16 inline-flex items-center px-3 py-2 text-sm font-Roboto font-medium text-center text-white bg-green-500 rounded-xl hover:bg-green-600 dark:bg-blue-600 dark:hover:bg-blue-700 dark:focus:ring-blue-800">
                       En savoir plus
                       <icon-arrow/>
@@ -139,7 +139,7 @@
                               <Router-link to="/jenfi" class="hover:underline hover:decoration-wavy hover:text-black">
                                   <h5 class="mb-4 text-2xl font-bold font-Lato tracking-tight text-gray-900 dark:text-white"> JENFI - Projet configurateur (prototype)</h5>
                               </Router-link>
-                              <p class="mb-5 font-normal text-gray-600 dark:text-gray-400 font-Roboto">Travail de 2ème année (3ème semestre) du cours Design d'Expérience consistant à réaliser un site qui permet de configurer/personnaliser une chaussure.  </p>
+                              <p class="lg:mb-5 font-normal text-gray-600 dark:text-gray-400 font-Roboto">Travail de 2ème année (3ème semestre) du cours Design d'Expérience consistant à réaliser un site qui permet de configurer/personnaliser une chaussure.  </p>
                               <Router-link to="/jenfi" class="mt-8 inline-flex items-center px-3 py-2 text-sm font-Roboto font-medium text-center text-white bg-green-500 rounded-xl hover:bg-green-600 dark:bg-blue-600 dark:hover:bg-blue-700 dark:focus:ring-blue-800">
                                   En savoir plus
                                   <icon-arrow/>
@@ -155,46 +155,30 @@
                               <Router-link to="/dossier-moi" class="hover:underline hover:decoration-wavy hover:text-black">
                                   <h5 class="mb-4 text-2xl font-bold font-Lato tracking-tight text-gray-900 dark:text-white"> DOSSIER MOI - EPI (Enseignement Pratique Interdisciplinaire)</h5>
                               </Router-link>
-                              <p class="mb-20 font-normal text-gray-600 dark:text-gray-400 font-Roboto">Travail de 4ème (collège) des matières francais et Arts plastiques consistant à réaliser son "DOSSIER MOI" comprenant une autobiographie et un autoportrait.</p>
+                              <p class="lg:mb-20 font-normal text-gray-600 dark:text-gray-400 font-Roboto">Travail de 4ème (collège) des matières francais et Arts plastiques consistant à réaliser son "DOSSIER MOI" comprenant une autobiographie et un autoportrait.</p>
                               <Router-link to="/dossier-moi" class="mt-8 inline-flex items-center px-3 py-2 text-sm font-Roboto font-medium text-center text-white bg-green-500 rounded-xl hover:bg-green-600 dark:bg-blue-600 dark:hover:bg-blue-700 dark:focus:ring-blue-800">
                                   En savoir plus
                                   <icon-arrow/>
                               </Router-link>
                           </div>
             </div>
-       <!-- Card - Défi 24h -->
+       <!-- Card - Œuvres diverses -->
        <div class="max-w-sm border border-green-500 rounded-xl dark:bg-gray-800 dark:border-gray-700 m-4">
-          <Router-link to="/defi24h" class="hover:opacity-70 ">
-                              <img class="rounded-t-lg" src="../assets/images/mi-figue-mi-raisin.webp" alt="Affiche Mi-figue mi-raisin" />
+          <Router-link to="/divers" class="hover:opacity-70 ">
+                              <img class="rounded-t-lg"  src="../assets/images/eloquence.webp" alt="Ciation de Françoise GIROUD" />
                           </Router-link>
                           <div class="p-5">
-                              <Router-link to="/defi24h" class="hover:underline hover:decoration-wavy hover:text-black">
-                                  <h5 class="mb-4 text-2xl font-bold font-Lato tracking-tight text-gray-900 dark:text-white"> Défi 24h </h5>
+                              <Router-link to="/divers" class="hover:underline hover:decoration-wavy hover:text-black">
+                                  <h5 class="mb-4 text-2xl font-bold font-Lato tracking-tight text-gray-900 dark:text-white"> Œuvres diverses </h5>
                               </Router-link>
-                              <p class="mb-5 font-normal text-gray-600 dark:text-gray-400 font-Roboto">24 heures à l'IUT afin de produire une oeuvre multimédia (vidéo, audio, jeu vidéo, illustration, etc.) sur un thème imposé et différent chaque année. Il y a divers défis tout au long. Édition de mars 2022 : "Mi-figue, mi-raisin", celle de mars 2023 : "Festival de films".</p>
-                              <Router-link to="/defi24h" class="mt-8 inline-flex items-center px-3 py-2 text-sm font-Roboto font-medium text-center text-white bg-green-500 rounded-xl hover:bg-green-600 dark:bg-blue-600 dark:hover:bg-blue-700 dark:focus:ring-blue-800">
+                              <p class="lg:mb-36 font-normal text-gray-600 dark:text-gray-400 font-Roboto">Œuvres diverses produites lors du défi 24h, du cours d'Arts Plastiques, d'atelier photo, d'écriture, concours d'éloquence etc.</p>
+                              <Router-link to="/divers" class="mt-8 inline-flex items-center px-3 py-2 text-sm font-Roboto font-medium text-center text-white bg-green-500 rounded-xl hover:bg-green-600 dark:bg-blue-600 dark:hover:bg-blue-700 dark:focus:ring-blue-800">
                                   En savoir plus
                                   <icon-arrow/>
                               </Router-link>
                           </div>
             </div>
- 
-       <!-- Card - Eloquence -->
-       <div class="max-w-sm border border-green-500 rounded-xl dark:bg-gray-800 dark:border-gray-700 m-4">
-          <Router-link to="/eloquence" class="hover:opacity-70 ">
-                              <img class="rounded-t-lg" src="../assets/images/eloquence.webp" alt="Ciation de Françoise GIROUD" />
-                          </Router-link>
-                          <div class="p-5">
-                              <Router-link to="/eloquence" class="hover:underline hover:decoration-wavy hover:text-black">
-                                  <h5 class="mb-6 mt-4 text-2xl font-bold font-Lato tracking-tight text-gray-900 dark:text-white"> Éloquence </h5>
-                              </Router-link>
-                              <p class="mb-5 font-normal text-gray-600 dark:text-gray-400 font-Roboto">J'ai eu la chance de pouvoir participer en 2019 à un concours d'Éloquence mais aussi de pratiquer le théâtre pendant 8 ans.</p>
-                              <Router-link to="/eloquence" class="mt-28 inline-flex items-center px-3 py-2 text-sm font-Roboto font-medium text-center text-white bg-green-500 rounded-xl hover:bg-green-600 dark:bg-blue-600 dark:hover:bg-blue-700 dark:focus:ring-blue-800">
-                                  En savoir plus
-                                  <icon-arrow/>
-                              </Router-link>
-                          </div>
-            </div>
+
  
  
   </div>

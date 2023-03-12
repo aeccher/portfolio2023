@@ -7,7 +7,7 @@ export default {
   components: { IconChevronsDown },
   mounted() {
         const options = {
-        strings: ['Bonjour,', 'Hello...', '¡Holà!'],
+        strings: ['Hello...', '¡Holà!', 'Bonjour,'],
         typeSpeed: 200,
         loop: false,
         showCursor: false,
