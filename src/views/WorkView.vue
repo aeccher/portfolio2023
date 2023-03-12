@@ -169,10 +169,27 @@
                           </Router-link>
                           <div class="p-5">
                               <Router-link to="/defi24h" class="hover:underline hover:decoration-wavy hover:text-black">
-                                  <h5 class="mb-4 text-2xl font-bold font-Lato tracking-tight text-gray-900 dark:text-white"> DEFI 24h </h5>
+                                  <h5 class="mb-4 text-2xl font-bold font-Lato tracking-tight text-gray-900 dark:text-white"> Défi 24h </h5>
                               </Router-link>
-                              <p class="mb-5 font-normal text-gray-600 dark:text-gray-400 font-Roboto">24 heures à l'IUT afin de produire une oeuvre multimédia (vidéo, audio, jeu vidéo, illustration, etc.) sur un thème imposé et différent chaque année. Édition de mars 2022 : "Mi-figue, mi-raisin", celle de mars 2023 : "Festival de films".</p>
+                              <p class="mb-5 font-normal text-gray-600 dark:text-gray-400 font-Roboto">24 heures à l'IUT afin de produire une oeuvre multimédia (vidéo, audio, jeu vidéo, illustration, etc.) sur un thème imposé et différent chaque année. Il y a divers défis tout au long. Édition de mars 2022 : "Mi-figue, mi-raisin", celle de mars 2023 : "Festival de films".</p>
                               <Router-link to="/defi24h" class="mt-8 inline-flex items-center px-3 py-2 text-sm font-Roboto font-medium text-center text-white bg-green-500 rounded-xl hover:bg-green-600 dark:bg-blue-600 dark:hover:bg-blue-700 dark:focus:ring-blue-800">
+                                  En savoir plus
+                                  <icon-arrow/>
+                              </Router-link>
+                          </div>
+            </div>
+ 
+       <!-- Card - Eloquence -->
+       <div class="max-w-sm border border-green-500 rounded-xl dark:bg-gray-800 dark:border-gray-700 m-4">
+          <Router-link to="/eloquence" class="hover:opacity-70 ">
+                              <img class="rounded-t-lg" src="../assets/images/eloquence.webp" alt="Ciation de Françoise GIROUD" />
+                          </Router-link>
+                          <div class="p-5">
+                              <Router-link to="/eloquence" class="hover:underline hover:decoration-wavy hover:text-black">
+                                  <h5 class="mb-6 mt-4 text-2xl font-bold font-Lato tracking-tight text-gray-900 dark:text-white"> Éloquence </h5>
+                              </Router-link>
+                              <p class="mb-5 font-normal text-gray-600 dark:text-gray-400 font-Roboto">J'ai eu la chance de pouvoir participer en 2019 à un concours d'Éloquence mais aussi de pratiquer le théâtre pendant 8 ans.</p>
+                              <Router-link to="/eloquence" class="mt-28 inline-flex items-center px-3 py-2 text-sm font-Roboto font-medium text-center text-white bg-green-500 rounded-xl hover:bg-green-600 dark:bg-blue-600 dark:hover:bg-blue-700 dark:focus:ring-blue-800">
                                   En savoir plus
                                   <icon-arrow/>
                               </Router-link>
