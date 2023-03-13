@@ -44,7 +44,7 @@
     <img src="../assets/images/brandboard.webp" alt="Brandboard" class="m-auto py-8  px-4">
 
     <h3 class="font-Roboto text-xl text-center font-bold mt-8 text-gray-600  outline-dotted p-2">Dessin vectoriel de base de la chaussure : une basket</h3>
-    <img src="../assets/images/basket.webp" alt="Illustration d'une basket noir/blanc" class="m-auto py-12 px-6">
+    <Basket class="m-auto py-12 px-6"/>
 
     <h3 class="font-Roboto text-xl text-center font-bold mt-8 text-gray-600  outline-dotted p-2">TRAVAIL RENDU</h3>
     <div class="lg:flex lg:justify-evenly grid">
@@ -69,9 +69,10 @@
 
 <script>
 import IconChevron from "../components/icons/IconChevron.vue";
+import Basket from "../components/Basket.vue";
 
 export default {
-  components: { IconChevron },
+  components: { IconChevron, Basket },
 }
 
 </script>
