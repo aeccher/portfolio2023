@@ -7,10 +7,11 @@ export default {
   components: { IconChevronsDown },
   mounted() {
         const options = {
-        strings: ['Hello...', '¡Holà!', 'Bonjour,'],
+        strings: ['Hello...', '¡Hola!', 'Bonjour,'],
         typeSpeed: 200,
         loop: false,
         showCursor: false,
+        startDelay: 1, // Ajoute un délai de 1 seconde
         
         }
     const typed = new Typed('#typed', options)

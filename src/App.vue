@@ -32,7 +32,8 @@
       <div
         id="menu"
         class="fixed overflow-y-hidden inset-0 z-40 translate-x-full bg-green-500 motion-safe:transition-transform motion-safe:duration-1000"
-        :class="{ 'translate-x-0': menuOuvert }">
+        :class="{ 'translate-x-0': menuOuvert }"
+        :style="{ 'transition-delay': 5 }">
         <ul class="p-10 text-3xl font-bold font-Roboto text-white grid gap-8 place-content-center mt-24">
           <li>
             <Router-link to="/about" @click="menuOuvert = false" >À propos de moi</Router-link>
