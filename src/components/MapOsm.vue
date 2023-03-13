@@ -92,7 +92,7 @@ const showLocation = (position) => {
         [coordMe.latitude, coordMe.longitude],
     ).addTo(map)
     // Ajout d'une infobulle 
-    markerMe.bindPopup("Je suis là !!!!")
+    markerMe.bindPopup("Vous êtes ici !")
 }
 
 </script>
