@@ -5,15 +5,15 @@
 
     <h3 class="font-Roboto text-2xl font-bold mt-2 text-gray-600 p-4">Éditeur du site - Responsable éditorial et légal</h3>
     <ul class="list-disc font-Roboto text-xl ml-10">
-        <li>Propriétaire : Agathe ECCHER</li>
-        <li>E-mail : <a href="mailto:contact@agathe-eccher.fr"><span class="text-green-500 underline">contact@agathe-eccher.fr</span></a></li>
+        <li><span class="underline">Propriétaire </span>: Agathe ECCHER</li>
+        <li>E-mail: <a href="mailto:contact@agathe-eccher.fr"><span class="text-green-500 underline">contact@agathe-eccher.fr</span></a></li>
     </ul>
 
     <h3 class="font-Roboto text-2xl font-bold mt-8 text-gray-600 p-4">Hébergeur</h3>
     <p class="font-bold font-Roboto pl-4 pt-1 text-xl">Infomaniak</p>
     <ul class="list-disc font-Roboto text-xl ml-10">
-        <li class="pt-2">Adresse : Les Acacias, Genève, Suisse - rue Eugène Marziano 251 227 Les Acacias (GE)</li>
-        <li class="pt-2">N° TVA : CHE-103.167.648 </li>
+        <li class="pt-2"><span class="underline">Adresse </span>: Les Acacias, Genève, Suisse - rue Eugène Marziano 251 227 Les Acacias (GE)</li>
+        <li class="pt-2"><span class="underline">N° TVA </span>: CHE-103.167.648 </li>
     </ul>
 
     <h3 class="font-Roboto text-2xl font-bold mt-8 text-gray-600 p-4">Conditions d’utilisation</h3>
@@ -27,7 +27,7 @@
 
     <ul class="list-disc font-Roboto text-xl p-4">
         <li class="m-5"><span class="underline font-bold text-gray-600">Graphisme, photos et illustrations : </span>Le graphisme (incluant le webdesign et le logo) a été réalisé par Agathe ECCHER. Le portrait appartient à Imagia. Les autres éléments (images et vidéos) appartientent à Agathe ECCHER.</li>
-        <li class="m-5"><span class="underline font-bold text-gray-600">Déclaration à la CNIL : </span>Conformément à la loi 78-17 du 6 janvier 1978 (modifiée par la loi 2004-801 du 6 août 2004 relative à la protection des personnes physiques à l’égard des traitements de données à caractère personnel) relative à l’informatique, aux fichiers et aux libertés, ce site n’a pas fait l’objet d’une déclaration auprès de la Commission nationale de l’informatique et des libertés (<a class="text-green-500 underline" href="https://www.cnil.fr/">www.cnil.fr</a>).</li>
+        <li class="m-5"><span class="underline font-bold text-gray-600">Déclaration à la CNIL : </span>Conformément à la loi 78-17 du 6 janvier 1978 (modifiée par la loi 2004-801 du 6 août 2004 relative à la protection des personnes physiques à l’égard des traitements de données à caractère personnel) relative à l’informatique, aux fichiers et aux libertés, ce site n’a pas fait l’objet d’une déclaration auprès de la Commission nationale de l’informatique et des libertés (<a class="text-green-500 underline" target="_blank" href="https://www.cnil.fr/">www.cnil.fr</a>).</li>
         <li class="m-5"><span class="underline font-bold text-gray-600">Litiges :</span> Les présentes conditions du site <span class="underline">https://portfolio.agathe-eccher.fr </span>sont régies par les lois françaises et toute contestation ou litiges qui pourraient naître de l’interprétation ou de l’exécution de celles-ci seront de la compétence exclusive des tribunaux dont dépend le siège social de la société. La langue de référence, pour le règlement de contentieux éventuels, est le français.</li>
     </ul>
 
