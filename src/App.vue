@@ -11,7 +11,7 @@
 
     <nav class="ml-auto flex items-center">
       <button
-        class="relative z-50 text-xl md:hidden"
+        class="relative z-50 text-xl hidden"
         aria-haspopup="true"
         aria-controls="menu"
         :aria-expanded="menuOuvert"

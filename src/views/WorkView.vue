@@ -149,7 +149,7 @@
        <!-- Card - Dossier moi -->
        <div class="max-w-sm border border-green-500 rounded-xl dark:bg-gray-800 dark:border-gray-700 m-4">
           <Router-link to="/dossier-moi" class="hover:opacity-70 ">
-            <img class="rounded-t-lg" src="../assets/images/Autoportrait_1.webp" alt="Selfie Agathe ECCHER avec photo d'elle petite devant" />
+            <img class="rounded-t-lg" src="../assets/images/autoportrait_1.webp" alt="Selfie Agathe ECCHER avec photo d'elle petite devant" />
                           </Router-link>
                           <div class="p-5">
                               <Router-link to="/dossier-moi" class="hover:underline hover:decoration-wavy hover:text-black">

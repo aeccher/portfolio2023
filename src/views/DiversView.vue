@@ -72,8 +72,18 @@
     Il y a divers défis tout au long. Édition de mars 2022 : "Mi-figue, mi-raisin", celle de mars 2023 : "Festival de films".</p>
     <div class="grid justify-center md:flex md:justify-evenly md:py-12">
       <img src="../assets/images/mi-figue-mi-raisin.webp" alt="Affiche Mi-figue mi-raisin" class="py-4 m-auto lg:w-1/2">
-      <img src="../assets/images/affiche_equipe.webp" alt="Affiche de l'équipe les 'Insoummis'" class="py-4 m-auto lg:w-1/4">
     </div> 
+
+    <h3 class="font-Roboto text-xl text-center font-bold mt-8 text-gray-600 outline-dotted p-2">Production d'un post d'Instagram en Anglais</h3>
+  <div class="lg:flex lg:justify-evenly grid">
+  <img src="../assets/images/post_instagram_1.webp" alt="Cover - The Person who I admire" class="p-4 m-auto lg:w-1/5">
+  <img src="../assets/images/post_instagram_2.webp" alt="The Person who I admire" class="p-4 m-auto lg:w-1/5">
+  <img src="../assets/images/post_instagram_3.webp" alt="The Person who I admire" class="p-4 m-auto lg:w-1/5">
+  <img src="../assets/images/post_instagram_4.webp" alt="The Person who I admire" class="p-4 m-auto lg:w-1/5">
+  <img src="../assets/images/post_instagram_5.webp" alt="The Person who I admire" class="p-4 m-auto lg:w-1/5">
+ 
+  </div>
+
 
 </template>
 
