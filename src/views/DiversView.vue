@@ -28,6 +28,11 @@
        <source src="../assets/videos/discours_concours_eloquence_2019.mp3">
     </audio>
 
+    <a href="https://drive.google.com/file/d/1mzeaPiNQAmjF_f9Q5TGbqT8LPCrnmc8H/view?usp=sharing" target="_blank" class="m-12 inline-flex items-center text-center text-2xl text-green-500 font-Roboto hover:underline">
+      Discours
+    <IconChevron/>
+    </a>
+
     <!--<h3 class="font-Roboto text-xl text-center font-bold mt-8 text-gray-600  outline-dotted p-2">EXTRAIT DE MES SPECTACLES DE THÉÂTRE</h3>
     <video controls class="mx-auto mt-16" >
     <source src="../assets/videos/extrait_spectacle.mp4">
@@ -60,18 +65,33 @@
 
   <h3 class="font-Roboto text-xl text-center font-bold mt-8 text-gray-600 outline-dotted p-2">Tableaux</h3>
   <div class="lg:flex lg:justify-evenly grid">
-  <img src="../assets/images/peinture_abstrait.webp" alt="Peinture abstratit d'un visage" class="p-4 m-auto lg:w-1/5">
-  <img src="../assets/images/peinture_bouts_bois.webp" alt="Peinture d'une ville avec des bouts de bois peints collés" class="p-4 m-auto lg:w-1/5">
+  <img src="../assets/images/peinture_abstrait.webp" alt="Peinture abstraite d'un visage" class="p-4 m-auto lg:w-1/5">
+  <img src="../assets/images/peinture_abstraite.webp" alt="Peinture abstraite" class="p-4 m-auto lg:w-1/5">
   <img src="../assets/images/peinture_fleurs.webp" alt="Peinture d'une fleurs (coquelicot)" class="p-4 m-auto lg:w-1/5">
+  <img src="../assets/images/peinture_grenouille.webp" alt="Peinture d'une grenouille colorée sur fond jaune" class="p-4 m-auto lg:w-1/5">
+  <img src="../assets/images/peinture_visage.webp" alt="Peinture d'un visage abstrait sur fond gris" class="p-4 m-auto lg:w-1/5">
+  </div> 
+
+  <div class="lg:flex lg:justify-evenly grid">
+  <img src="../assets/images/peinture_poissons.webp" alt="Peinture poissons nage sur un fond bleu" class="p-4 m-auto lg:w-1/2">
+  <img src="../assets/images/peinture_bouts_bois.webp" alt="Peinture d'une ville avec des bouts de bois peints collés" class="p-4 m-auto lg:w-1/2">
   </div>
 
   <h3 class="font-Roboto text-xl text-center font-bold mt-8 text-gray-600 outline-dotted p-2">20cm² de peur</h3>
-  <img src="" alt="">
+  <p class="mt-4 ml-4 font-Roboto text-xl mr-4">Travail de 3ème (collège) du cours d'Arts Plastiques consisitant à résaliser une affiche de sensibilation à la laïcité en détournant une publicité de votre choix.</p>
+  <img src="../assets/images/peur.webp" alt="Feuille de 20cm sur 20cm représentant des formes abstraites évoquant un sentiment de peur" class="p-4 m-auto lg:w-1/5">
 
   <h3 class="font-Roboto text-xl text-center font-bold mt-8 text-gray-600 outline-dotted p-2">CAMOUFALGE</h3>
-  <img src="" alt="">
+  <p class="mt-4 ml-4 font-Roboto text-xl mr-4">Travail de 3ème (collège) du cours d'Arts Plastiques consisitant à faire disparaître une figure donnée (ici <em>Lucien Freud,Autoportrait, encre de chine, 1999</em>) sans en effacer les lignes.</p>
+  <img src="../assets/images/camouflage_tons_clairs.webp" alt="Camouflage de l'autoportrait de Lucien Freud par des lignes dans des taches militaires" class="p-4 m-auto lg:w-1/5">
 
+  <h3 class="font-Roboto text-xl text-center font-bold mt-8 text-gray-600 outline-dotted p-2">PHOTOMONATGE</h3>
+  <p class="mt-4 ml-4 font-Roboto text-xl mr-4">Travail de 4ème (collège) du cours d'Arts Plastiques autour du mouvement : un personnage marche sur un pont, celui-ci se détache et il tombe. </p>
+  <img src="../assets/images/collage_pont.webp" alt="Photocollage d'un personnage sur un pont" class="p-4 m-auto lg:w-1/5">
 
+  <h3 class="font-Roboto text-xl text-center font-bold mt-8 text-gray-600 outline-dotted p-2">Planche de Bande Dessinée</h3>
+  <p class="mt-4 ml-4 font-Roboto text-xl mr-4">Travail de 4ème (collège) du cours d'Arts Plastiques, création d'une planche de bande dessinée. </p>
+  <img src="../assets/images/bd.webp" alt="Vignettes de bande dessinée dans une piscine, préparation à la réussite d'un plongeon" class="p-4 m-auto lg:w-1/5">
 
 
   <h3 class="font-Roboto text-xl text-center font-bold mt-8 text-gray-600 outline-dotted p-2"> Défi 24h</h3>
@@ -94,3 +114,11 @@
 
 </template>
 
+<script>
+import IconChevron from "../components/icons/IconChevron.vue";
+
+export default {
+  components: { IconChevron },
+}
+
+</script>
