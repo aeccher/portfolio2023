@@ -9,7 +9,7 @@
 
       <h3 class="font-Roboto text-xl text-center font-bold mt-8 text-gray-600 outline-dotted p-2"> Ma plume au carré (a²)</h3>
       <blockquote class="text-xl italic font-medium font-Roboto text-gray-900 dark:text-gray-900 mt-4 ml-4 mr-4">
-    <p><span class="font-semibold">Qu’importe qui parle, quelqu’un a dit qu’importe qui parle. Il va y avoir un départ, j’en serai,</span>j’irai dans un monde où la surdité de l’oreille importe peu, quand l’esprit entend. 
+    <p><span class="font-semibold">Qu’importe qui parle, quelqu’un a dit qu’importe qui parle. Il va y avoir un départ, j’en serai, </span>j’irai dans un monde où la surdité de l’oreille importe peu, quand l’esprit entend. 
     Un endroit où, mieux vaut être sourd que d’entendre ça. Il n’y aurait plus de dialogue de malentendants entre entendants, seulement des dialogues d’entendants entre malentendants. 
     Eh oui, tout le monde serait sourd-muet ! Personne ne verbaliserait, oraliserait, réciterait, énoncerait, … Tout le monde signerait ! Frapper comme un sourd ! 
     Mon cœur est lourd, mon corps est sourd, mes doigts sont gourds, <span class="font-semibold">loin des jours, les jours sont loin, ça n’ira pas tout seul.</span></p>
@@ -28,10 +28,10 @@
        <source src="../assets/videos/discours_concours_eloquence_2019.mp3">
     </audio>
 
-    <h3 class="font-Roboto text-xl text-center font-bold mt-8 text-gray-600  outline-dotted p-2">EXTRAIT DE MES SPECTACLES DE THÉÂTRE</h3>
+    <!--<h3 class="font-Roboto text-xl text-center font-bold mt-8 text-gray-600  outline-dotted p-2">EXTRAIT DE MES SPECTACLES DE THÉÂTRE</h3>
     <video controls class="mx-auto mt-16" >
     <source src="../assets/videos/extrait_spectacle.mp4">
-</video>
+</video>-->
 
 
   <h3 class="font-Roboto text-xl text-center font-bold mt-8 text-gray-600 outline-dotted p-2"> STORYBOARD</h3>
@@ -52,10 +52,9 @@
   </div>
 
   <h3 class="font-Roboto text-xl text-center font-bold mt-8 text-gray-600 outline-dotted p-2">Détournement de publicité pour la Laïcité</h3>
-  <p class="mt-4 ml-4 font-Roboto text-xl mr-4">Travail de 3ème (collège) du cours d'Arts Plastiques consisisatnt à résaliser une affiche de sensibilation à la laïcité en détournant une publicité de votre choix.</p>
+  <p class="mt-4 ml-4 font-Roboto text-xl mr-4">Travail de 3ème (collège) du cours d'Arts Plastiques consisitant à résaliser une affiche de sensibilation à la laïcité en détournant une publicité de votre choix.</p>
   <div class="lg:flex lg:justify-evenly grid">
   <img src="../assets/images/publicite_laicite_avant.webp" alt="Publicité pour la bière de GRIMBERGEN" class="p-4 m-auto lg:w-1/5">
-  <!-- AJOUT UN ICONE FLÈCHE -->
   <img src="../assets/images/publicite_laicite_apres.webp" alt="Publicité détourné pour sensibiliser à la laïcité" class="p-4 m-auto lg:w-1/5">
   </div>
 
@@ -65,6 +64,14 @@
   <img src="../assets/images/peinture_bouts_bois.webp" alt="Peinture d'une ville avec des bouts de bois peints collés" class="p-4 m-auto lg:w-1/5">
   <img src="../assets/images/peinture_fleurs.webp" alt="Peinture d'une fleurs (coquelicot)" class="p-4 m-auto lg:w-1/5">
   </div>
+
+  <h3 class="font-Roboto text-xl text-center font-bold mt-8 text-gray-600 outline-dotted p-2">20cm² de peur</h3>
+  <img src="" alt="">
+
+  <h3 class="font-Roboto text-xl text-center font-bold mt-8 text-gray-600 outline-dotted p-2">CAMOUFALGE</h3>
+  <img src="" alt="">
+
+
 
 
   <h3 class="font-Roboto text-xl text-center font-bold mt-8 text-gray-600 outline-dotted p-2"> Défi 24h</h3>

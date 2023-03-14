@@ -48,11 +48,23 @@
       </div>
     </nav>
 
+    <!-- Menu format Desktop -->
     <div class="hidden flex-auto justify-end items-center text-lg text-white gap-24 pb-4 pt-6 pr-16 md:flex">
       <Router-link to="/about" class="font-Roboto hover:underline hover:text-gray-100">À propos de moi</Router-link>
       <Router-link to="/travail" class="font-Roboto hover:underline hover:text-gray-100">Travail</Router-link>
       <Router-link to="/contact" class="px-12 py-3 font-Roboto border border-white rounded-full hover:bg-white hover:text-green-500">Contact</Router-link>
     </div>
+
+    <!-- Menu format Téléphone -->
+    <nav>
+      <div class="visible flex justify-evenly items-center z-20 md:hidden">
+      <Router-link to="/about"><IconAbout/><span class="sr-only">Icône À propos de moi page /about</span></Router-link>
+      <Router-link to="/travail"><IconWork/><span class="sr-only">Icône du lieu de travail : thé posé sur un bureau à côté d'un ordinateur page /travail</span></Router-link>
+      <Router-link to="/contact"><IconContact/><span class="sr-only">Icône de contact</span></Router-link>
+    </div>
+    
+    </nav>
+
   </header>
 
   <router-view />
@@ -106,10 +118,16 @@
 
 <script>
 import IconLogo from "./components/icons/IconLogo.vue";
+
 import IconMenu from "./components/icons/IconMenu.vue";
 import IconCross from "./components/icons/IconCross.vue";
+
 import IconLinkedIn from "./components/icons/IconLinkedIn.vue";
 import IconInsta from "./components/icons/IconInsta.vue";
+
+import IconAbout from "./components/icons/IconAbout.vue";
+import IconWork from "./components/icons/IconWork.vue";
+import IconContact from "./components/icons/IconContact.vue";
 
 export default {
   name: "App",
@@ -118,7 +136,7 @@ export default {
       menuOuvert: false,
     };
   },
-  components: { IconLogo, IconMenu, IconCross, IconLinkedIn, IconInsta },
+  components: { IconLogo, IconMenu, IconCross, IconLinkedIn, IconInsta, IconAbout, IconWork, IconContact },
 };
 
 </script>

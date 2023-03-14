@@ -28,7 +28,7 @@
 
     <h3 class="font-Roboto text-xl text-center font-bold mt-8 text-gray-600 outline-dotted p-2">SITE FINAL</h3>
     <a href="https://ecobiking.mariongillot.com/" target="_blank">
-    <img src="../assets/images/site_final.webp" alt="Harmonie colorée du site" class="m-auto pt-12">
+    <img src="../assets/images/site_final.webp" alt="Harmonie colorée du site" class="m-auto pt-12 w-1/2">
     </a>
 
 </template>
