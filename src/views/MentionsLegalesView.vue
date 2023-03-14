@@ -27,7 +27,10 @@
 
     <ul class="list-disc font-Roboto text-xl p-4">
         <li class="m-5"><span class="underline font-bold text-gray-600">Graphisme, photos, illustrations, vidéos &#x26; audio</span> : Le graphisme (incluant le webdesign et le logo) a été réalisé par Agathe ECCHER. Le portrait appartient à Imagia. Les autres éléments (images et vidéos) appartientent à Agathe ECCHER.</li>
-        <li class="m-5"><span class="underline font-bold text-gray-600">Les différentes icônes</span> : Les icônes n'ont pas été créés par Agathe ECCHER.
+        <li class="m-5"><span class="underline font-bold text-gray-600">Icônes</span> : Les icônes n'ont pas été créés par Agathe ECCHER.
+        <blockquote class="lg:my-44 lg:mr-52 p-2 my-4 border-l-4 border-gray-300 bg-gray-50 font-Lato dark:border-gray-500 dark:bg-gray-800">
+         <p class="italic text-gray-800 text-2xl font-semibold font-Roboto dark:text-white">"Rendons aux graphistes ce qui appartient aux graphistes : les heures de leurs créations."</p>
+         </blockquote>
         <p class="underline font-semibold text-gray-700 text-lg lg:p-2 mt-2">Pour la navigation dans l’entête en format téléphone mobile</p>
         <div class="grid columns-1 text-base p-2 lg:ml-4">
         <a class="hover:text-green-500 underline" target="_blank" href="https://www.flaticon.com/free-icons/contact" title="communicate icône">- Icône de contact créé par srip - Flaticon</a>
