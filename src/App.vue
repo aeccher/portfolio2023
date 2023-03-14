@@ -57,10 +57,10 @@
 
     <!-- Menu format Téléphone -->
     <nav>
-      <div class="visible flex justify-evenly items-center z-20 md:hidden">
-      <Router-link to="/about"><IconAbout/><span class="sr-only">Icône À propos de moi page /about</span></Router-link>
+      <div class="visible flex justify-evenly my-2 md:hidden">
       <Router-link to="/travail"><IconWork/><span class="sr-only">Icône du lieu de travail : thé posé sur un bureau à côté d'un ordinateur page /travail</span></Router-link>
       <Router-link to="/contact"><IconContact/><span class="sr-only">Icône de contact</span></Router-link>
+      <Router-link to="/about"><IconAbout/><span class="sr-only">Icône À propos de moi page /about</span></Router-link>
     </div>
     
     </nav>
