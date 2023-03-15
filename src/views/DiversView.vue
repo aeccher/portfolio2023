@@ -7,7 +7,7 @@
       <img src="../assets/images/fleurs.webp" alt="Photomontage de photographies représentant des fleurs roses de plus en plus rapprochées" class="m-auto">
       <img src="../assets/images/troncs_arbres.webp" alt="Photomontage de photographies représentant un tronc d'arbre de plus en plus rapprochées" class="m-auto">
 
-      <h3 class="font-Roboto text-xl text-center font-bold mt-8 text-gray-600 outline-dotted p-2"> Ma plume, tracer à l'équerre elle est au carré (a²)</h3>
+      <h3 class="font-Roboto text-xl text-center font-bold mt-8 text-gray-600 outline-dotted p-2"> Ma plume, tracée à l'équerre elle est au carré (a²)</h3>
       <blockquote class="text-xl italic font-medium font-Roboto text-gray-900 dark:text-gray-900 mt-4 ml-4 mr-4">
     <p><span class="font-semibold">Qu’importe qui parle, quelqu’un a dit qu’importe qui parle. Il va y avoir un départ, j’en serai, </span>j’irai dans un monde où la surdité de l’oreille importe peu, quand l’esprit entend. 
     Un endroit où, mieux vaut être sourd que d’entendre ça. Il n’y aurait plus de dialogue de malentendants entre entendants, seulement des dialogues d’entendants entre malentendants. 
@@ -15,6 +15,11 @@
     Mon cœur est lourd, mon corps est sourd, mes doigts sont gourds, <span class="font-semibold">loin des jours, les jours sont loin, ça n’ira pas tout seul.</span></p>
     <p class="font-semibold text-right py-2 mr-4 not-italic text-gray-700">Extrait de Fiction Scientifique</p>
 </blockquote>
+
+    <a href="https://belfort.ffcam.fr/index.php?alias=detail-carnet-de-route&oid=T032:mgw5xrrpdg1z" target="_blank" class="m-12 inline-flex items-center text-center text-2xl text-green-500 font-Roboto hover:underline">
+      Article rédigé pour le Club Alpin Français de Belfort 
+    <IconChevron/>
+    </a>
 
   <img src="../assets/images/poemes.webp" alt="Acrostiche des mots nuage et stylo" class="my-auto ml-8lg:w-1/2">
 

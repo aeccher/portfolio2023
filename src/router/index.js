@@ -16,6 +16,7 @@ import SAE202View from '../views/SAE202View.vue'
 import JenfiView from '../views/JenfiView.vue'
 import DossierMoiView from '../views/DossierMoiView.vue'
 import DiversView from '../views/DiversView.vue'
+import ISNView from '../views/ISNView.vue'
 
 import NotFoundView from '../views/NotFoundView.vue'
 
@@ -42,6 +43,7 @@ const router = createRouter({
     { path: '/jenfi', name: 'Jenfi', component: JenfiView },
     { path: '/dossier-moi', name: 'DossierMoi', component: DossierMoiView },
     { path: '/divers', name: 'Divers', component: DiversView },
+    { path: '/isn', name: 'ISN', component: ISNView },
 
     { path: '/404', alias: '/:catchAll(.*)', name: 'NotFound', component: NotFoundView },
 

@@ -179,6 +179,23 @@
                           </div>
             </div>
 
+       <!-- Card - Projet ISN -->
+       <div class="max-w-sm border border-green-500 rounded-xl dark:bg-gray-800 dark:border-gray-700 m-4">
+          <Router-link to="/isn" class="hover:opacity-70 ">
+                              <img class="rounded-t-lg"  src="../assets/images/illustration_projet_isn.webp" alt="Dessins bébés qui signent" />
+                          </Router-link>
+                          <div class="p-5">
+                              <Router-link to="/isn" class="hover:underline hover:decoration-wavy hover:text-black">
+                                  <h5 class="mb-4 mt-12 text-2xl font-bold font-Lato tracking-tight text-gray-900 dark:text-white"> Projet réalisé en ISN (Informatique et Sciences du Numérique) </h5>
+                              </Router-link>
+                              <p class="lg:mb-12 font-normal text-gray-600 dark:text-gray-400 font-Roboto">Projet réalisé dans le cadre de la spécialité choisie en Terminale (lycée), Logiciel d’apprentissage et d’information sur la langue des signes pour le dialogue avec un bébé. Non abouti malheureusement à cause de la pandémie.</p>
+                              <Router-link to="/isn" class="mt-8 inline-flex items-center px-3 py-2 text-sm font-Roboto font-medium text-center text-white bg-green-500 rounded-xl hover:bg-green-600 dark:bg-blue-600 dark:hover:bg-blue-700 dark:focus:ring-blue-800">
+                                  En savoir plus
+                                  <icon-arrow/>
+                              </Router-link>
+                          </div>
+            </div>
+
  
  
   </div>
