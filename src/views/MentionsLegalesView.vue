@@ -33,16 +33,16 @@
          </blockquote>
         <p class="underline font-semibold text-gray-700 text-lg lg:p-2 mt-2">Pour la navigation dans l’en-tête en format téléphone mobile</p>
         <div class="grid columns-1 text-base p-2 lg:ml-4">
-        <a class="hover:text-green-500 underline" target="_blank" href="https://www.flaticon.com/free-icons/contact" title="communicate icône">- Icône de contact créé par srip - Flaticon</a>
-        <a class="hover:text-green-500 underline" target="_blank" href="https://www.flaticon.com/fr/icones-gratuites/lieu-de-travail" title="lieu de travail icône">- Lieu de travail icône créé par Sir.Vector - Flaticon</a>
-        <a class="hover:text-green-500 underline" target="_blank" href="https://www.flaticon.com/free-icons/about" title="about icône">- About icône créé par Ilham Fitrotul Hayat - Flaticon</a>
+        <a class="hover:text-green-500 underline" target="_blank" href="https://www.flaticon.com/free-icons/contact" title="communicate icône">- Icône "Communicate" créé par srip - Flaticon</a>
+        <a class="hover:text-green-500 underline" target="_blank" href="https://www.flaticon.com/fr/icones-gratuites/lieu-de-travail" title="lieu de travail icône">- Icône "Lieu de travail" créé par Sir.Vector - Flaticon</a>
+        <a class="hover:text-green-500 underline" target="_blank" href="https://www.flaticon.com/free-icons/about" title="about icône">- Icône "About" créé par Ilham Fitrotul Hayat - Flaticon</a>
         </div>
         <p class="underline font-semibold text-gray-700 text-lg p-2">Pour le personnage « WomanEquerre »</p>
         <div class="grid columns-1 text-base p-2 lg:ml-4">
         <a class="hover:text-green-500 underline" target="_blank" href="https://www.flaticon.com/free-icons/arm" title="Arm icons">- Icônes des bras créés par Flat Icons - Flaticon</a>
-        <a class="hover:text-green-500 underline" target="_blank" href="https://www.flaticon.com/fr/icones-gratuites/yeux" title="Yeux icônes">- Yeux icône créé par erwinalamsyah - Flaticon</a>
-        <a class="hover:text-green-500 underline" target="_blank" href="https://www.flaticon.com/fr/icones-gratuites/equerre" title="Équerre icônes">- Équerre icône créé par Freepik - Flaticon</a>
-        <a class="hover:text-green-500 underline" target="_blank" href="https://www.flaticon.com/fr/icones-gratuites/jambe" title="Jambe icônes">- Jambe icône créé par Freepik - Flaticon</a>
+        <a class="hover:text-green-500 underline" target="_blank" href="https://www.flaticon.com/fr/icones-gratuites/yeux" title="Yeux icônes">- Icône de l'œil créé par erwinalamsyah - Flaticon</a>
+        <a class="hover:text-green-500 underline" target="_blank" href="https://www.flaticon.com/fr/icones-gratuites/equerre" title="Équerre icônes">- Icône de l'équerre créé par Freepik - Flaticon</a>
+        <a class="hover:text-green-500 underline" target="_blank" href="https://www.flaticon.com/fr/icones-gratuites/jambe" title="Jambe icônes">- Icônes des jambes créés par Freepik - Flaticon</a>
         </div></li>
         <li class="m-5"><span class="underline font-bold text-gray-600">Déclaration à la CNIL</span> : Conformément à la loi 78-17 du 6 janvier 1978 (modifiée par la loi 2004-801 du 6 août 2004 relative à la protection des personnes physiques à l’égard des traitements de données à caractère personnel) relative à l’informatique, aux fichiers et aux libertés, ce site n’a pas fait l’objet d’une déclaration auprès de la Commission nationale de l’informatique et des libertés (<a class="text-green-500 underline" target="_blank" href="https://www.cnil.fr/">www.cnil.fr</a>).</li>
         <li class="m-5"><span class="underline font-bold text-gray-600">Litiges</span> : Les présentes conditions du site <span class="underline">https://portfolio2023.agathe-eccher.fr </span>sont régies par les lois françaises et toute contestation ou litiges qui pourraient naître de l’interprétation ou de l’exécution de celles-ci seront de la compétence exclusive des tribunaux dont dépend le siège social de la société. La langue de référence, pour le règlement de contentieux éventuels, est le français.</li>

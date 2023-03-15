@@ -6,7 +6,7 @@
     Nous nous sommes alors lancées dans cette aventure pour <span class="font-semibold text-gray-600">apprendre quelque chose de nouveau</span>, en prenant cela comme un pacte, <span class="font-semibold text-gray-600">un défi</span>.
     Je ne l'ai pas regrettée c'était un cours où j'avais hâte d'y être, un cours agréable où je me sentais satisfaite de mon travail accompli lorsque celui-ci fonctionnait enfin.
     J'y ai compris que l'essentiel <span class="font-semibold text-gray-600">ce n'est pas le chiffre sur la copie, mais plutôt ce que j'en retenais</span> (des erreurs commises par exemple).</p>
-    <p class="mt-4 ml-4 font-Roboto text-xl mr-4"> Le professeur n’avait jamais eu autant de filles dans son cours, nous étions 5 sur 20 élèves. Il partait à la retraite à la fin de l'année et venait d'être grand-père, fortement intéressé par le projet qui sortait des jeux souvent réalisés. 
+    <p class="mt-4 ml-4 font-Roboto text-xl mr-4"> Le professeur n’avait jamais eu autant de filles dans son cours, nous étions 7 sur 20 élèves. Il partait à la retraite à la fin de l'année et venait d'être grand-père, fortement intéressé par le projet qui sortait des jeux souvent réalisés. 
     Aidant tout au long, il répondait alors à mes nombreuses questions avec souvent une pointe d'humour. </p>
     
 
