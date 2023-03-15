@@ -4,14 +4,14 @@
     <h3 class="font-Roboto text-xl text-center font-bold mt-8 text-gray-600 outline-dotted p-2"> PRÉAMBULE</h3>
     <p class="mt-4 ml-4 font-Roboto text-xl mr-4">Ce <span class="font-semibold text-gray-600">choix de spécialité</span>, s’est fait en ayant la crainte de ne pas y arriver car mes deux amies et moi n’avions jamais touché une ligne de code.
     Nous nous sommes alors lancées dans cette aventure pour <span class="font-semibold text-gray-600">apprendre quelque chose de nouveau</span>, en prenant cela comme un pacte, <span class="font-semibold text-gray-600">un défi</span>.
-    Je ne l'ai pas regrettée c'était un cours où j'avais hâte d'y être, un cours agréable où je me sentais satisfaite de mon travail accompli lorsque celui-ci fonctionnait enfin.
-    J'y ai compris que l'essentiel <span class="font-semibold text-gray-600">ce n'est pas le chiffre sur la copie, mais plutôt ce que j'en retenais</span> (des erreurs commises par exemple).</p>
+    Je ne l'ai pas regretté c'était un cours où j'avais hâte d'y être, un cours agréable où je me sentais satisfaite de mon travail accompli lorsque celui-ci fonctionnait enfin.
+    J'y ai compris que l'essentiel <span class="font-semibold text-gray-600">ce n'est pas le chiffre sur la copie, mais plutôt ce que j'en retenais</span> (apprentissage des erreurs commises par exemple).</p>
     <p class="mt-4 ml-4 font-Roboto text-xl mr-4"> Le professeur n’avait jamais eu autant de filles dans son cours, nous étions 7 sur 20 élèves. Il partait à la retraite à la fin de l'année et venait d'être grand-père, fortement intéressé par le projet qui sortait des jeux souvent réalisés. 
     Aidant tout au long, il répondait alors à mes nombreuses questions avec souvent une pointe d'humour. </p>
     
 
     <h3 class="font-Roboto text-xl text-center font-bold mt-8 text-gray-600 outline-dotted p-2"> CONCEPT</h3>
-    <p class="mt-4 ml-4 mr-4 font-Roboto text-xl font-semibold text-gray-600">Logiciel d’apprentissage et d’information autour de la LANGUE (et non langage car ce ne ) des signes pour le dialogue avec un bébé.</p>
+    <p class="mt-4 ml-4 mr-4 font-Roboto text-xl font-semibold text-gray-600">Logiciel d’apprentissage et d’information autour de la LANGUE (et non langage) des signes pour le dialogue avec un bébé.</p>
     <p class="mt-4 ml-4 font-Roboto text-xl mr-4"> Nous avons choisi de réaliser ce projet, car nous aimons la langue des signes et que l’idée de <span class="font-semibold text-gray-600">l’apprendre à son bébé est de plus en plus recommandée et d’actualité</span>.</p>
     <p class="mt-4 ml-4 font-Roboto text-xl mr-4"> Notre <span class="font-semibold text-gray-600">objectif</span> était de créer un logiciel permettant d’apprendre comment signer avec son bébé par le biais de vidéos et guider par la description du geste à effectuer pour faire le signe du mot ou de l’expression.</p>
    
