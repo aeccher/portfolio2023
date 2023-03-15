@@ -9,7 +9,7 @@
                     <div class="absolute w-3 h-3 bg-gray-200 rounded-full mt-1.5 -left-1.5 border border-white dark:border-gray-900 dark:bg-gray-700"></div>
                     <time class="mb-1 text-base font-normal font-Roboto leading-none text-gray-400 dark:text-gray-500">Septembre 2021 - Août 2024 </time>
                     <h4 class="text-lg font-semibold font-Roboto text-gray-900 dark:text-gray-500">BUT MMI (Bachelor Universitaire de Technologie Métiers du Multimédia et de l'Internet)</h4>
-                    <h5 class="text-lg font-semibold font-Roboto text-gray-700 dark:text-gray-500">Parcours développement web et dispositif interactif / En alternance</h5>
+                    <h5 class="text-lg font-semibold font-Roboto text-gray-700 dark:text-gray-500">Parcours développement web et dispositifs interactifs / En alternance</h5>
                     <p class="mb-4 text-base font-normal font-Roboto text-gray-500 dark:text-gray-400">Développement Web - Design - Communication</p>
                 </li>
                 <li class="mb-10 ml-4">

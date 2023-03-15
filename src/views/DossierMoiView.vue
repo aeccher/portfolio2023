@@ -4,7 +4,7 @@
     <h3 class="font-Roboto text-xl text-center font-bold mt-8 text-gray-600 outline-dotted p-2"> ÉNONCÉ </h3>
     <p class="mt-4 ml-4 font-Roboto text-xl mr-4">En premier lieu, une <span class="font-semibold text-gray-600">autobiographie</span> est un récit rétrospectif dans lequel une personne raconte sa propre existence en insistant sur sa vie personnelle et l’histoire de sa personnalité, elle reprend une évolution sur la durée. </p>
     <p class="mt-4 ml-4 font-Roboto text-xl mr-4">Un <span class="font-semibold text-gray-600">autoportrait</span> est comme son nom l'indique, une représentation (peinte, sculptée, photographiée, dessinée) d’un artiste fait par l’artiste lui-même, c’est la description d'un état à un moment donné.</p>
-    <p class="mt-4 ml-4 font-Roboto text-xl mr-4">En Français, nous avons étudier des autobiographie d’auteurs puis avons dû écrire la nôtre. En Arts Plastiques, nous nous sommes interrogé comment se montrer soi-même par des selfies.</p>
+    <p class="mt-4 ml-4 font-Roboto text-xl mr-4">En Français, nous avons étudié des autobiographies d’auteurs puis avons dû écrire la nôtre. En Arts Plastiques, nous nous sommes interrogés sur comment se montrer soi-même par des selfies.</p>
 
     <h3 class="font-Roboto text-xl text-center font-bold mt-8 text-gray-600  outline-dotted p-2">AUTOPORTRAITS</h3>
     <p class="mt-4 ml-4 font-Roboto text-xl mr-4"> Mon <span class="font-semibold text-gray-600">idée directrice</span> a été celle de la <span class="font-semibold text-gray-600">rétrospection et légèrement de l’introspection</span> pour dire que mon passé raconte mon présent. Pour les réaliser, j’ai donc choisi des photos de moi plus petite et pris une lumière naturelle avec une profondeur de champ nette. </p>
@@ -24,7 +24,7 @@
     <h3 class="font-Roboto text-xl text-center font-bold mt-8 text-gray-600  outline-dotted p-2">DOSSIER MOI</h3>
 
     <p class="mt-4 ml-4 font-Roboto text-xl mr-4"> Par la suite je vous propose de découvrir mon <span class="font-semibold text-gray-600">« Dossier moi »</span> réalisé en liaison en Français et en Arts Plastiques.
-    J’ai décidé de le présenter sur la forme d’un @ car ce signe me représente. En effet, la lettre "a" est la première lettre de mon prénom, ainsi que la 3ème et j’aime passer du temps à utiliser mon écran d'ordinateur. 
+    J’ai décidé de le présenter sous la forme d’un @ car ce signe me représente. En effet, la lettre "a" est la première lettre de mon prénom, ainsi que la 3ème et j’aime passer du temps à utiliser mon écran d'ordinateur. 
     Grâce à un pâtron j’ai pu le réaliser, il est <span class="font-semibold text-gray-600">entièrement en carton.</span> </p>
     <div class="grid lg:flex lg:justify-around">
     <img src="../assets/images/patron-arobase.webp" alt="Patron d'arobase" class="p-4 m-auto">
@@ -35,13 +35,13 @@
     ++ ARBRE GÉNÉALOGIQUE + PORTRAIT CHINOIS OU QUESTIONNAIRE PROUST -->
 
     <ul class="list-outside font-Roboto text-xl mx-4 my-4">
-        <li class="mt-2 italic"><span class="underline font-semibold text-red-500 not-italic">Nez cassé </span>« À l’âge de mes sept ans, je me suis cassée le nez. Aujourd’hui je vais vous raconter comment cela c’est  passé, alors que j’étais chez moi un vendredi soir d’été avec des invités [...] »</li>
+        <li class="mt-2 italic"><span class="underline font-semibold text-red-500 not-italic">Nez cassé </span>« À l’âge de mes sept ans, je me suis cassée le nez. Aujourd’hui je vais vous raconter comment cela s’est  passé, alors que j’étais chez moi un vendredi soir d’été avec des invités [...] »</li>
         <li class="mt-4 italic"><span class="underline font-semibold text-orange-500 not-italic">Mon portrait chinois</span> « Si j'étais un sport, je serai la natation, une couleur : le vert, un objet : un ordinateur, un monument : la Tour Eiffel, un mois : Janvier [...] » </li>
         <li class="mt-2 italic"><span class="underline font-semibold text-yellow-500 not-italic"> Je me souviens ...</span> « des histoires que mes parents me racontaient pour que je m'endorme.» </li>   
         <li class="mt-2 italic"><span class="underline font-semibold text-green-500 not-italic">Lettre rendez-vous dans 10 ans </span>« Aujourd’hui on est le 3 septembre 2016 et j’ai 14 ans et demi enfin pour toi tu en as maintenant 24 ans et demi et on est en 2026. [...] »</li>
-        <li class="mt-2 italic"><span class="underline font-semibold text-blue-500 not-italic">Questionnaire de PROUST</span>« Mon rêve de bonheur : avoir un métier qui me plaît, comment j'aimerai mourir : sans souffrir et entouré de mes proches, [... » </li>
+        <li class="mt-2 italic"><span class="underline font-semibold text-blue-500 not-italic">Questionnaire de PROUST</span>« Mon rêve de bonheur : avoir un métier qui me plaît, comment j'aimerai mourir : sans souffrir et entourée de mes proches, ma devise : il vaut mieux être seule que mal accompagnée [... » </li>
         <li class="mt-2 italic"><span class="underline font-semibold text-amber-700 not-italic">Mon CV fabuleux</span>« 40% d'énergie, 30% de génie, 70% de motivation, 10% de folie, 20% d'humour et 30% de créativité = 200% de moi»</li>
-        <li class="mt-2 italic"><span class="underline font-semibold text-pink-500 not-italic">Mon mode d'emploi </span> « Pour ne pas me recharger trop souvent et si vous voulez un meilleur rendement, respectez mon temps de repos. Il vous faudra toujours me donner une alimentation équilibrée et de qualité trois fois par jour. [...] ATTENTION : N’exposer pas l’appareil trop longtemps au UV sinon il pourrait devenir couleur rougeâtre. [...] Nettoyage et entretien :  
+        <li class="mt-2 italic"><span class="underline font-semibold text-pink-500 not-italic">Mon mode d'emploi </span> « Pour ne pas me recharger trop souvent et si vous voulez un meilleur rendement, respectez mon temps de repos. Il vous faudra toujours me donner une alimentation équilibrée et de qualité trois fois par jour. [...] ATTENTION : Ne’exposez pas l’appareil trop longtemps au rayonnement UV sinon il pourrait devenir couleur rougeâtre. [...] Nettoyage et entretien :  
             N’oubliez pas de laver votre appareil une fois par jour sous une douche et ne le mettez surtout pas dans un lave-linge. »</li>
     </ul> 
 

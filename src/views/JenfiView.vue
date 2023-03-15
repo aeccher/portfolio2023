@@ -44,7 +44,7 @@
     <img src="../assets/images/brandboard.webp" alt="Brandboard" class="m-auto py-8  px-4">
 
     <h3 class="font-Roboto text-xl text-center font-bold mt-8 text-gray-600  outline-dotted p-2">Dessin vectoriel de base de la chaussure : une basket</h3>
-    <Basket class="m-auto py-12 px-6"/>
+    <Basket class="m-auto py-12 px-6 w-9/12"/>
 
     <h3 class="font-Roboto text-xl text-center font-bold mt-8 text-gray-600  outline-dotted p-2">TRAVAIL RENDU</h3>
     <div class="lg:flex lg:justify-evenly grid">
