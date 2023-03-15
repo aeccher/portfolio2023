@@ -1,5 +1,5 @@
 <template>
-    <h2 class="font-Lato text-3xl text-center font-bold mt-16 lg:mt-32 text-gray-600 underline underline-offset-[15px] decoration-double p-2">À propos de moi</h2>
+    <h2 class="font-Lato text-3xl text-center font-bold mt-20 lg:mt-32 text-gray-600 underline underline-offset-[15px] decoration-double p-2">À propos de moi</h2>
     <p class="text-2xl p-12 font-Roboto">Intéressée par le développement Front-End, le webdesign ou encore la 3D, je suis actuellement en 2ème année d'un BUT MMI (Bachelor Universitaire de Technologie Métiers du Multimédia et de l'Internet) à Montbéliard (25).</p>
        <div class="flex-col columns-1 pl-12 lg:columns-2">  
             <img class="rounded-xl h-80 mx-auto lg:my-32" src="../assets/images/portrait.webp" alt="Portrait de Agathe ECCHER" />

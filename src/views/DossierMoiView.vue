@@ -1,5 +1,5 @@
 <template>
-    <h2 class="font-Lato text-3xl text-center font-bold mt-16 lg:mt-32 text-gray-600 underline underline-offset-8 decoration-double p-2"> DOSSIER MOI - EPI</h2>
+    <h2 class="font-Lato text-3xl text-center font-bold mt-20 lg:mt-32 text-gray-600 underline underline-offset-8 decoration-double p-2"> DOSSIER MOI - EPI</h2>
 
     <h3 class="font-Roboto text-xl text-center font-bold mt-8 text-gray-600 outline-dotted p-2"> ÉNONCÉ </h3>
     <p class="mt-4 ml-4 font-Roboto text-xl mr-4">En premier lieu, une <span class="font-semibold text-gray-600">autobiographie</span> est un récit rétrospectif dans lequel une personne raconte sa propre existence en insistant sur sa vie personnelle et l’histoire de sa personnalité, elle reprend une évolution sur la durée. </p>

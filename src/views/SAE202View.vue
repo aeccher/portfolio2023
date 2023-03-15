@@ -1,5 +1,5 @@
 <template>
-    <h2 class="font-Lato text-3xl text-center font-bold mt-16 lg:mt-32 text-gray-600 underline underline-offset-8 decoration-double p-2"> Site ECOBIKING - SAÉ 202</h2>
+    <h2 class="font-Lato text-3xl text-center font-bold mt-20 lg:mt-32 text-gray-600 underline underline-offset-8 decoration-double p-2"> Site ECOBIKING - SAÉ 202</h2>
 
     <h3 class="font-Roboto text-xl text-center font-bold mt-8 text-gray-600 outline-dotted p-2"> ANALYSE / CONCEPT </h3>
     <div class="grid justify-center md:flex md:justify-evenly md:py-12">

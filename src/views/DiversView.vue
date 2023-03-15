@@ -1,5 +1,5 @@
 <template>
-    <h2 class="font-Lato text-3xl text-center font-bold mt-16 lg:mt-32 text-gray-600 underline underline-offset-8 decoration-double p-2">Œuvres diverses</h2>
+    <h2 class="font-Lato text-3xl text-center font-bold mt-20 lg:mt-32 text-gray-600 underline underline-offset-8 decoration-double p-2">Œuvres diverses</h2>
 
     <h3 class="font-Roboto text-xl text-center font-bold mt-8 text-gray-600 outline-dotted p-2">Atelier photo</h3>
       <img src="../assets/images/arbre_ciel.webp" alt="Photomontage représentant un arbre feuillu devant un ciel" class="m-auto">
@@ -16,7 +16,7 @@
     <p class="font-semibold text-right py-2 mr-4 not-italic text-gray-700">Extrait de Fiction Scientifique</p>
 </blockquote>
 
-    <a href="https://belfort.ffcam.fr/index.php?alias=detail-carnet-de-route&oid=T032:mgw5xrrpdg1z" target="_blank" class="m-12 inline-flex items-center text-center text-2xl text-green-500 font-Roboto hover:underline">
+    <a href="https://belfort.ffcam.fr/index.php?alias=detail-carnet-de-route&oid=T032:mgw5xrrpdg1z" target="_blank" class="m-12 inline-flex items-center lg:text-center text-2xl text-green-500 font-Roboto hover:underline">
       Article rédigé pour le Club Alpin Français de Belfort 
     <IconChevron/>
     </a>

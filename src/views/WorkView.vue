@@ -1,5 +1,5 @@
 <template>
- <h3 class="font-Lato text-center text-3xl font-bold mt-16 lg:mt-32 text-gray-600 underline underline-offset-8 decoration-double p-2">Travaux</h3>
+ <h3 class="font-Lato text-center text-3xl font-bold mt-20 lg:mt-32 text-gray-600 underline underline-offset-8 decoration-double p-2">Travaux</h3>
   
   <div class="flex flex-col justify-center align-middle gap-x-12 gap-y-10 md:flex-row md:flex-wrap md:gap-x-16">
       <!-- Card - Illustration de la Citadelle -->

@@ -1,6 +1,6 @@
 <template>
 
-    <h2 class="font-Lato text-3xl text-center font-bold mt-16 lg:mt-32 text-gray-600 underline underline-offset-8 decoration-double p-2">Mentions Légales</h2>
+    <h2 class="font-Lato text-3xl text-center font-bold mt-20 lg:mt-32 text-gray-600 underline underline-offset-8 decoration-double p-2">Mentions Légales</h2>
     <p class="font-Roboto text-xl p-4">Cette page décrit les mentions légales qui s'appliquent à tout internaute visitant ce site. En le consultant vous vous engagez sans réserve à les respecter. Les mentions légales pouvant être modifiées à tout moment et sans préavis, nous vous engageons à les consulter régulièrement.</p>
 
     <h3 class="font-Roboto text-2xl font-bold mt-2 text-gray-600 p-4">Éditeur du site - Responsable éditorial et légal</h3>

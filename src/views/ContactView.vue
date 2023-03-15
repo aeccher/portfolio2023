@@ -11,13 +11,13 @@
       <form id="form" class="flex flex-wrap" action="https://formsubmit.co/agatheec@free.fr" method="POST">
         <div class="p-2">
           <div class="relative">
-            <label for="name" class="leading-7 text-xs text-gray-600 font-Roboto w-full">Prénom &#x26; Nom</label>
+            <label for="name" class="leading-7 text-base text-gray-600 font-Roboto w-full">Prénom &#x26; Nom</label>
             <input type="text" id="name" name="name" placeholder="Prénom NOM" required class="font-Roboto w-10/12 bg-gray-100 bg-opacity-50 rounded border border-gray-300 focus:border-indigo-500 focus:bg-white focus:ring-2 focus:ring-indigo-200 text-base outline-none text-gray-700 py-1 px-3 leading-8 transition-colors duration-200 ease-in-out">
           </div>
         </div>
         <div class="p-2">
           <div class="relative">
-            <label for="email" class="leading-7 text-xs text-gray-600 font-Roboto w-full">Email</label>
+            <label for="email" class="leading-7 text-base text-gray-600 font-Roboto w-full">Email</label>
             <input type="email" id="email" name="email" placeholder="prenom.nom@exemple.fr" required class="font-Roboto w-full bg-gray-100 bg-opacity-50 rounded border border-gray-300 focus:border-indigo-500 focus:bg-white focus:ring-2 focus:ring-indigo-200 text-base outline-none text-gray-700 py-1 px-3 leading-8 transition-colors duration-200 ease-in-out">
           </div>
         </div>
@@ -27,7 +27,7 @@
         <input type="hidden" name="_subject" value="Nouveau message depuis Portfolio - Ag@the ECCHER">
         <div class="p-2 w-full">
           <div class="relative">
-            <label for="message" class="leading-7 text-sm text-gray-600 font-Roboto">Message</label>
+            <label for="message" class="leading-7 text-base text-gray-600 font-Roboto">Message</label>
             <textarea id="message" name="message" placeholder="Écrivez votre message ici..." required class="font-Roboto w-full bg-gray-100 bg-opacity-50 rounded border border-gray-300 focus:border-indigo-500 focus:bg-white focus:ring-2 focus:ring-indigo-200 h-32 text-base outline-none text-gray-700 py-1 px-3 resize-none leading-6 transition-colors duration-200 ease-in-out"></textarea>
           </div>
         </div>
