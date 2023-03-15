@@ -5,7 +5,7 @@
     <p class="mt-4 ml-4 font-Roboto text-xl mr-4">Ce choix de spécialité, s’est fait en ayant la crainte de ne pas y arriver car mes deux amies et moi n’avions jamais touché une ligne de code.
     Nous nous sommes alors lancées dans cette aventure pour apprendre quelque chose de nouveau, en prenant cela comme un pacte, un défi.
     Je ne l'ai pas regrettée c'était un cours où j'avais hâte d'y être, un cours agréable où je me sentais satisfaite de mon travail accompli lorsque celui-ci fonctionnait enfin.
-    J'y ai compris que l'essentiel ce n'est pas le chiffre sur la copie, mais plutôt ce que je retiendrai des erreurs commises.</p>
+    J'y ai compris que l'essentiel ce n'est pas le chiffre sur la copie, mais plutôt ce que j'en retenais (des erreurs commises par exemple).</p>
     <p class="mt-4 ml-4 font-Roboto text-xl mr-4"> Le professeur n’avait jamais eu autant de filles dans son cours, nous étions 5 sur 20 élèves. Il partait à la retraite à la fin de l'année et venait d'être grand-père, fortement intéressé par le projet qui sortait des jeux souvent réalisés. 
     Aidant tout au long, il répondait alors à mes nombreuses questions avec souvent une pointe d'humour. </p>
     

@@ -45,7 +45,7 @@
 
 
   <h3 class="font-Roboto text-xl text-center font-bold mt-8 text-gray-600 outline-dotted p-2"> STORYBOARD</h3>
-  <p class="mt-4 ml-4 font-Roboto text-xl mr-4">Travail de 1ère année (1er semestre) du cours Ecriture multimedia et narration.</p>
+  <p class="mt-4 ml-4 font-Roboto text-xl mr-4">Travail de 1ère année (1er semestre) du cours Écriture multimedia et narration.</p>
   <img src="../assets/images/eccher_ex2_storyboard.webp" alt="Storyboard d'ouveture d'une trousse" class="m-auto lg:w-1/2">
  
 
@@ -59,6 +59,14 @@
   <img src="../assets/images/analyse_graphique_oeuvre_2.webp" alt="Analyse graphique oeuvre : Affiche du secours populaire" class="p-4 m-auto lg:w-1/5">
   <img src="../assets/images/analyse_graphique_oeuvre_3.webp" alt="Analyse graphique oeuvre : Affiche du secours populaire" class="p-4 m-auto lg:w-1/5">
   <img src="../assets/images/analyse_graphique_oeuvre_4.webp" alt="Analyse graphique oeuvre : Affiche du secours populaire" class="p-4 m-auto lg:w-1/5">
+  </div>
+
+  <h3 class="font-Roboto text-xl text-center font-bold mt-8 text-gray-600 outline-dotted p-2">Analyse d'une vidéo</h3>
+  <div class="lg:flex lg:justify-evenly grid">
+  <img src="../assets/images/analyse_video_1.webp" alt="Analyse d'une video publiée sur les réseaux sociaux (ici TikTok)" class="p-4 m-auto lg:w-1/5">
+  <img src="../assets/images/analyse_video_2.webp" alt="Analyse d'une video publiée sur les réseaux sociaux (ici TikTok)" class="p-4 m-auto lg:w-1/5">
+  <img src="../assets/images/analyse_video_3.webp" alt="Analyse d'une video publiée sur les réseaux sociaux (ici TikTok)" class="p-4 m-auto lg:w-1/5">
+  <img src="../assets/images/analyse_video_4.webp" alt="Analyse d'une video publiée sur les réseaux sociaux (ici TikTok)" class="p-4 m-auto lg:w-1/5">
   </div>
 
   <h3 class="font-Roboto text-xl text-center font-bold mt-8 text-gray-600 outline-dotted p-2">Détournement de publicité pour la Laïcité</h3>
