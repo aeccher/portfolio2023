@@ -7,7 +7,10 @@ import MentionsLegalesView from '../views/MentionsLegalesView.vue'
 
 import IllustrationCitadelleView from '../views/IllustrationCitadelleView.vue'
 import ChartJsView from '../views/ChartJsView.vue'
+import ProjetS5View from '../views/ProjetS5View.vue'
 import ThreeJsView from '../views/ThreeJsView.vue'
+import MaisonThreeJsView from '../views/MaisonThreeJsView.vue'
+import MoThreeJsView from '../views/MoThreeJsView.vue'
 import ExpoUnivView from '../views/ExpoUnivView.vue'
 import CassandreView from '../views/CassandreView.vue'
 import HypercubeView from '../views/HypercubeView.vue'
@@ -34,7 +37,10 @@ const router = createRouter({
 
     { path: '/illustration-citadelle', name: 'IllustrationCitadelle', component: IllustrationCitadelleView },
     { path: '/chartjs', name: 'ChartJs', component: ChartJsView },
+    { path: '/projet', name: 'ProjetS5', component: ProjetS5View },
     { path: '/threejs', name: 'ThreeJs', component: ThreeJsView },
+    { path: '/maison-threejs', name: 'MaisonThreeJs', component: MaisonThreeJsView },
+    { path: '/mo-threejs', name: 'MoThreeJs', component: MoThreeJsView },
     { path: '/exposition-universelle', name: 'ExpoUniv', component: ExpoUnivView },
     { path: '/cassandre', name: 'Cassandre', component: CassandreView },
     { path: '/hypercube', name: 'Hypercube', component: HypercubeView },
