@@ -15,8 +15,8 @@ pipeline {
         stage('Setup Node.js') {
             steps {
                 script {
-                    def nodeTool = tool name: 'NodeJS', type: 'jenkins.plugins.nodejs.tools.NodeJSInstallation'
-                    env.PATH = "${nodeTool}/bin:${env.PATH}"
+                    def nodejsHome = tool name: "NodeJS-18", type: 'hudson.plugins.nodejs.tools.NodeJSInstallation'
+                    env.PATH = "${nodejsHome}/bin:${env.PATH}"
                 }
                 sh 'node -v'  // Vérification de la version Node.js
             }
